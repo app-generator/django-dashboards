@@ -16,7 +16,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 - SQLite, Django native ORM
 - Modular design
-- Session-Based authentication (login, register)
+- Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Black Dashboard** provided by **Creative-Tim**
 
@@ -32,7 +32,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 - SQLite, Django native ORM
 - Modular design
-- Session-Based authentication (login, register)
+- Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Argon Dashboard** provided by **Creative-Tim**
 
