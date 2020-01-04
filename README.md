@@ -6,7 +6,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 ## What is [Django](https://www.djangoproject.com/) (web framework)
 
-Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites - Wikipedia Definition
+> Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites - **Wikipedia Definition** 
 
 <br />
 
