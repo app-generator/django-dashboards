@@ -58,5 +58,33 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
+## [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
+
+<br />
+
+![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-intro.gif)
+
+<br />
+
+## [Django Dashboard Light](https://github.com/app-generator/django-dashboard-light)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Dashboard** provided by **Creative-Tim**
+
+<br />
+
 ---
 Django Admin Dashboards - provided by AppSeed
