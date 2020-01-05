@@ -86,5 +86,9 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
+![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-intro.gif)
+
+<br />
+
 ---
 Django Admin Dashboards - provided by AppSeed
