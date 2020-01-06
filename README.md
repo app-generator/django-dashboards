@@ -19,7 +19,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Black Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Black Sources](https://github.com/app-generator/django-dashboard-black)
+- [Django Dashboard Black](https://github.com/app-generator/django-dashboard-black) - source code
 - [Django Dashboard Black](https://www.youtube.com/watch?v=czv4Ww6rjMU) - yTube presentation
 
 <br />
@@ -37,7 +37,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Argon Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Argon Sources](https://github.com/app-generator/django-dashboard-argon)
+- [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - source code
 - [Django Dashboard Argon](https://www.youtube.com/watch?v=bGGDGltRT_g) - yTube presentation
 
 <br />
@@ -55,7 +55,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 - Session-Based Authentication (login, register)
 - Forms validation
 - UI Kit: **Material Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Material Sources](https://github.com/app-generator/django-dashboard-material)
+- [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - source code
 - [Django Dashboard Material](https://www.youtube.com/watch?v=HwloHQlDPBQ) - yTube presentation
 
 <br />
@@ -73,7 +73,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **NowUI Dashboard** provided by **Creative-Tim**
-- [Django Dashboard NowUI Sources](https://github.com/app-generator/django-dashboard-nowui)
+- [Django Dashboard NowUI](https://github.com/app-generator/django-dashboard-nowui) - source code
 - [Django Dashboard NowUI](https://www.youtube.com/watch?v=XUNiLhk31kY) - yTube presentation
 
 <br />
@@ -91,7 +91,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 - Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Light Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Light Sources](https://github.com/app-generator/django-dashboard-light)
+- [Django Dashboard Light](https://github.com/app-generator/django-dashboard-light) - source code
 - [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
 
 <br />
