@@ -10,7 +10,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
 
@@ -28,7 +28,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
 
@@ -46,7 +46,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material)
+## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
 
@@ -64,7 +64,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
+## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
 
@@ -82,7 +82,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
+## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
 
