@@ -24,7 +24,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-intro.gif)
+![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
 
@@ -42,7 +42,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-intro.gif)
+![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
 
 <br />
 
@@ -60,7 +60,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-intro.gif)
+![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
 
 <br />
 
@@ -78,7 +78,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-intro.gif)
+![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-screen.png)
 
 <br />
 
@@ -96,7 +96,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-intro.gif)
+![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-screen.png)
 
 <br />
 
@@ -114,7 +114,7 @@ Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-intro.gif)
+![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
 
 <br />
 
@@ -132,7 +132,7 @@ Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. 
 
 <br />
 
-![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-intro.gif)
+![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
 
 <br />
 
@@ -150,7 +150,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Argon PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-intro.gif)
+![Django Dashboard Argon PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
 
 <br />
 
