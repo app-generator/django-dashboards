@@ -10,6 +10,22 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
+## [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
+
+<br />
+
+![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
+
+<br />
+
 ## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
