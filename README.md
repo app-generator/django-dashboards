@@ -10,7 +10,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Atlantis Dark](https://www.youtube.com/watch?v=wqyAVW_m6lk)
+## [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
 
