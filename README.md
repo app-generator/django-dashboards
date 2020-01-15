@@ -10,7 +10,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark)
+## [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
 
@@ -28,7 +28,7 @@ Open-source and paid admin panels coded on top of **Django Framework**
 
 <br />
 
-## [Django Dashboard Light Blue](https://github.com/app-generator/django-dashboard-light-blue)
+## [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
 
@@ -133,6 +133,38 @@ Open-source and paid admin panels coded on top of **Django Framework**
 <br />
 
 ![Django Dashboard Light - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-screen.png)
+
+<br />
+
+## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Shards Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Shards Dashboard** provided by **DesignRevision**
+
+<br />
+
+![Django Dashboard Shards - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-shards-screen.png)
+
+<br />
+
+## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Tabler Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Tabler Dashboard** provided vy CodeCalm
+
+<br />
+
+![Django Dashboard Tabler - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-tabler-screen.png)
 
 <br />
 
