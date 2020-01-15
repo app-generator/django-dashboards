@@ -1,6 +1,6 @@
 # [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) 
 
-Open-source and paid admin panels coded on top of **Django Framework**
+[Open-source](https://appseed.us/admin-dashboards/open-source) and paid [admin panels](https://appseed.us/admin-dashboards) coded / genarted on top of **Django Framework**. 
 
 <br />
 
