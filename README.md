@@ -1,6 +1,6 @@
 # [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) 
 
-[Open-source](https://appseed.us/admin-dashboards/open-source) and paid [admin panels](https://appseed.us/admin-dashboards) coded / generated on top of **Django Framework**. 
+[Open-source admin panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of **Django Framework** and released under permissive licenses (MIT, LGPL). 
 
 <br />
 
@@ -173,59 +173,5 @@
 
 <br />
 
-## [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
-
-Admin Dashboard coded in **Django Framework** on top of **Black Dashboard PRO** design. **Features**:
-
-- UI-Ready PRO Kit: **Black Dashboard PRO** provided by **Creative-Tim**
-- SQLite, native ORM
-- Clean code-base and modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
-- [Commercial License](./LICENSE.md)
-
-<br />
-
-![Django Dashboard Black PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)
-
-<br />
-
-## [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro)
-
-Admin Dashboard coded in **Django Framework** on top of **Dashkit PRO** design. **Features**:
-
-- UI-Ready PRO Kit: **Dashkit PRO** provided by **CssNinja**
-- SQLite, native ORM
-- Clean code-base and modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
-- [Commercial License](./LICENSE.md)
-
-<br />
-
-![Django Dashboard Dashkit PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-dashkit-pro-screen.png)
-
-<br />
-
-# [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
-
-Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** design. **Features**:
-
-- UI-Ready PRO Kit: [Argon Dashboard Pro](https://www.creative-tim.com/product/material-dashboard-pro) provided by **Creative-Tim**
-- SQLite, native ORM
-- Clean code-base and modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
-- [Commercial License](./LICENSE.md)
-
-<br />
-
-![Django Dashboard Argon PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
-
-<br />
-
 ---
-[Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - provided by AppSeed
+**[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)** - provided by AppSeed
