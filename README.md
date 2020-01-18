@@ -165,7 +165,7 @@
 - Modular design
 - Session-Based authentication (login, register)
 - Forms validation
-- UI Kit: **Tabler Dashboard** provided vy CodeCalm
+- UI Kit: **Tabler Dashboard** provided by CodeCalm
 
 <br />
 
