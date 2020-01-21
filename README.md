@@ -15,42 +15,6 @@
 
 <br />
 
-## [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- UI Kit: **Atlantis Dark Dashboard** provided by **ThemeKita**
-- [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark) - source code
-- [Django Dashboard Atlantis Dark](https://www.youtube.com/watch?v=wqyAVW_m6lk) - yTube presentation
-
-<br />
-
-![Django Dashboard Atlantis Dark - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)
-
-<br />
-
-## [Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based authentication (login, register)
-- Forms validation
-- UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
-- [Django Dashboard Light Blue](https://github.com/app-generator/django-dashboard-light-blue) - source code
-- [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ) - yTube presentation
-
-<br />
-
-![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
-
-<br />
-
 ## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
@@ -102,6 +66,42 @@
 <br />
 
 ![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
+
+<br />
+
+## [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Atlantis Dark Dashboard** provided by **ThemeKita**
+- [Django Dashboard Atlantis Dark](https://github.com/app-generator/django-dashboard-atlantis-dark) - source code
+- [Django Dashboard Atlantis Dark](https://www.youtube.com/watch?v=wqyAVW_m6lk) - yTube presentation
+
+<br />
+
+![Django Dashboard Atlantis Dark - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)
+
+<br />
+
+## [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **Light Blue Dashboard** provided by **FlatLogic**
+- [Django Dashboard Light Blue](https://github.com/app-generator/django-dashboard-light-blue) - source code
+- [Django Dashboard Light Blue](https://www.youtube.com/watch?v=vsR9GPxEcNQ) - yTube presentation
+
+<br />
+
+![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
 
 <br />
 
