@@ -29,7 +29,7 @@
 
 <br />
 
-> In love with this design? Check out the PRO version: [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) that includes the **PRO UI Kit (more pages and components) and Live support** (via Discord, eMail and Github) 
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
 
 <br />
 
@@ -51,6 +51,10 @@
 
 <br />
 
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
+
+<br />
+
 ![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
 
 <br />
@@ -66,6 +70,10 @@
 - UI Kit: **Material Dashboard** provided by **Creative-Tim**
 - [Django Dashboard Material](https://github.com/app-generator/django-dashboard-material) - source code
 - [Django Dashboard Material](https://www.youtube.com/watch?v=HwloHQlDPBQ) - yTube presentation
+
+<br />
+
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
 
 <br />
 
@@ -123,6 +131,10 @@
 
 <br />
 
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard NowUI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
+
+<br />
+
 ![Django Dashboard NowUI - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-nowui-screen.png)
 
 <br />
@@ -138,6 +150,10 @@
 - UI Kit: **Light Dashboard** provided by **Creative-Tim**
 - [Django Dashboard Light](https://github.com/app-generator/django-dashboard-light) - source code
 - [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
+
+<br />
+
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
 
 <br />
 
