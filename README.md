@@ -29,6 +29,10 @@
 
 <br />
 
+> In love with this design? Check out the PRO version: [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) that includes the **PRO UI Kit (more pages and components) and Live support** (via Discord, eMail and Github) 
+
+<br />
+
 ![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
