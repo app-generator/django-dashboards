@@ -15,6 +15,23 @@
 
 <br />
 
+### [Django Admin Panels](https://appseed.us/admin-dashboards/django) - Short-list
+
+- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, Design Creative-Tim
+- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, Design Creative-Tim
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free, Design Creative-Tim
+- [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, Design ThemeKita
+- [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, Design FlatLogic
+- [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Free, Design ThemeKita
+- [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - Design ColorLib
+- [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Design CoreUI, Free Admin Panel
+- [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free, Design Creative-Tim
+- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free, Design Creative-Tim
+- [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - crafted by DesignRevision 
+- [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free admin panel
+
+<br />
+
 ## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
