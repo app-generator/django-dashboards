@@ -1,6 +1,6 @@
 # [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) 
 
-[Open-source admin panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of **Django Framework** and released under permissive licenses (MIT, LGPL). 
+[Open-source admin panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of **Django Framework** and released under permissive licenses (MIT, LGPL) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
 
 <br />
 
@@ -33,29 +33,7 @@
 
 <br />
 
-![Django Dashboard Black - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
-
-<br />
-
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
-
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
-
-- SQLite, Django native ORM
-- Modular design
-- Session-Based Authentication (login, register)
-- Forms validation
-- UI Kit: **Argon Dashboard** provided by **Creative-Tim**
-- [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - source code
-- [Django Dashboard Argon](https://www.youtube.com/watch?v=bGGDGltRT_g) - yTube presentation
-
-<br />
-
-> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
-
-<br />
-
-![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
+![Django Dashboard Black - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-screen.png)
 
 <br />
 
@@ -77,7 +55,29 @@
 
 <br />
 
-![Django Dashboard Material - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
+![Django Dashboard Material - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-material-screen.png)
+
+<br />
+
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Argon Dashboard** provided by **Creative-Tim**
+- [Django Dashboard Argon](https://github.com/app-generator/django-dashboard-argon) - source code
+- [Django Dashboard Argon](https://www.youtube.com/watch?v=bGGDGltRT_g) - yTube presentation
+
+<br />
+
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
+
+<br />
+
+![Django Dashboard Argon - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
 
 <br />
 
@@ -95,7 +95,7 @@
 
 <br />
 
-![Django Dashboard Atlantis Dark - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)
+![Django Dashboard Atlantis Dark - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)
 
 <br />
 
@@ -113,7 +113,55 @@
 
 <br />
 
-![Django Dashboard Light Blue - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
+![Django Dashboard Light Blue - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-light-blue-screen.png)
+
+<br />
+
+## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **Atlantis Dashboard** provided by **ThemeKita**
+
+<br />
+
+![Django Dashboard Atlantis - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-screen.png)
+
+<br />
+
+## [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **Adminator Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: [Adminator Free Dashboard](https://github.com/app-generator/fork-adminator-admin-dashboard) by **ColorLib**
+
+<br />
+
+![Django Dashboard Adminator - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-screen.png)
+
+<br />
+
+## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+
+**Open-Source Admin Panel** coded in **Django Framework** on top of **CoreUI Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based authentication (login, register)
+- Forms validation
+- UI Kit: **CoreUI Dashboard** provided by **CoreUI** agency
+
+<br />
+
+![Django Dashboard CoreUI - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-coreui-screen.png)
 
 <br />
 
@@ -194,4 +242,4 @@
 <br />
 
 ---
-**[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)** - provided by AppSeed
+**[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)** - provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
