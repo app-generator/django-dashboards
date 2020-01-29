@@ -1,6 +1,6 @@
 # [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) 
 
-[Open-source admin panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of **Django Framework** and released under permissive licenses (MIT, LGPL) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
+[Open-source admin panels](https://appseed.us/admin-dashboards/open-source) coded / generated on top of **[Django Framework](https://www.djangoproject.com/)** and released under permissive licenses (MIT, LGPL) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 <br />
 
@@ -34,7 +34,7 @@
 
 ## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Black Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -56,7 +56,7 @@
 
 ## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Material Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Material Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -78,7 +78,7 @@
 
 ## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Argon Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -100,7 +100,7 @@
 
 ## [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dark Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Atlantis Dark Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -118,7 +118,7 @@
 
 ## [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Blue Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Blue Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -136,7 +136,7 @@
 
 ## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Atlantis Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Atlantis Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -152,7 +152,7 @@
 
 ## [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Adminator Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Adminator Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -168,7 +168,7 @@
 
 ## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **CoreUI Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **CoreUI Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -184,7 +184,7 @@
 
 ## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **NowUI Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **NowUI Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -206,7 +206,7 @@
 
 ## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -228,7 +228,7 @@
 
 ## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Shards Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Shards Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -244,7 +244,7 @@
 
 ## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Tabler Dashboard** design. **Features**:
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Tabler Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
 - Modular design
@@ -259,4 +259,4 @@
 <br />
 
 ---
-**[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)** - provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
+**[Django Admin Dashboards](https://appseed.us/admin-dashboards/django)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
