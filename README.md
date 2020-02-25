@@ -17,22 +17,25 @@
 
 ### [Django Admin Panels](https://appseed.us/admin-dashboards/django) - Short-list
 
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Free, Design Creative-Tim
-- [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - Free, Design Creative-Tim
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Free, Design Creative-Tim
-- [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Free, Design ThemeKita
-- [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - Free, Design FlatLogic
-- [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Free, Design ThemeKita
-- [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - Design ColorLib
-- [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Design CoreUI, Free Admin Panel
-- [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - Free, Design Creative-Tim
-- [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Free, Design Creative-Tim
-- [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - crafted by DesignRevision 
-- [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - Free admin panel
+
+| Item | Design | License | - | - | - |
+| --- | --- | --- | --- | --- | --- |
+[Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
+[Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
+[Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
+[Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-nowui) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
+[Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-light.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-light-pro)**
+[Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | ThemeKita | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | -
+[Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | ThemeKita | MIT | [LIVE demo](https://django-dashboard-atlantis.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | -
+[Django Dashboard Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) | FlatLogic | MIT | [LIVE demo](https://django-dashboard-light-blue.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-light-blue) | -
+[Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) | DesignRevision | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
+[Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
+[Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
+[Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
 
 <br />
 
-## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - [LIVE Demo](https://django-dashboard-black.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Black Dashboard** design. **Features**:
 
@@ -54,7 +57,7 @@
 
 <br />
 
-## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material)
+## [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) - [LIVE Demo](https://django-dashboard-material.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Material Dashboard** design. **Features**:
 
@@ -76,7 +79,7 @@
 
 <br />
 
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - [LIVE Demo](https://django-dashboard-argon.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Argon Dashboard** design. **Features**:
 
@@ -98,7 +101,7 @@
 
 <br />
 
-## [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
+## [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - [LIVE Demo](https://django-dashboard-atlantis-dark.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Atlantis Dark Dashboard** design. **Features**:
 
@@ -116,7 +119,7 @@
 
 <br />
 
-## [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue)
+## [Django Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) - [LIVE Demo](https://django-dashboard-light-blue.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Blue Dashboard** design. **Features**:
 
@@ -134,7 +137,7 @@
 
 <br />
 
-## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
+## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - [LIVE Demo](https://django-dashboard-atlantis.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Atlantis Dashboard** design. **Features**:
 
@@ -150,7 +153,7 @@
 
 <br />
 
-## [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator)
+## [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) - [LIVE Demo](https://django-dashboard-adminator.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Adminator Dashboard** design. **Features**:
 
@@ -166,7 +169,7 @@
 
 <br />
 
-## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - [LIVE Demo](https://django-dashboard-coreui.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **CoreUI Dashboard** design. **Features**:
 
@@ -182,7 +185,7 @@
 
 <br />
 
-## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui)
+## [Django Dashboard NowUI](https://appseed.us/admin-dashboards/django-dashboard-nowui) - [LIVE Demo](https://django-dashboard-nowui.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **NowUI Dashboard** design. **Features**:
 
@@ -204,7 +207,7 @@
 
 <br />
 
-## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
+## [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - [LIVE Demo](https://django-dashboard-light.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Light Dashboard** design. **Features**:
 
@@ -226,7 +229,7 @@
 
 <br />
 
-## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards)
+## [Django Dashboard Shards](https://appseed.us/admin-dashboards/django-dashboard-shards) - [LIVE Demo](https://django-dashboard-shards.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Shards Dashboard** design. **Features**:
 
@@ -242,7 +245,7 @@
 
 <br />
 
-## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler)
+## [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) - [LIVE Demo](https://django-dashboard-tabler.appseed.us)
 
 **Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **Tabler Dashboard** design. **Features**:
 
@@ -255,6 +258,30 @@
 <br />
 
 ![Django Dashboard Tabler - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-tabler-screen.png)
+
+<br />
+
+## Credits & Links
+---
+
+<br />
+
+### [PRO Django Admin Dashboards](https://appseed.us/bundles/django-admin-dashboards-pro)
+
+Index with **Premium** UI-ready **admin dashboards** generated by the AppSeed platform in [Django Framework](https://www.djangoproject.com/).
+Start fast your next **Django** project by using functional admin dashboards enhanced with Database, ORM, authentication flow, helpers and deployment scripts - 24/7 LIVE support via [Discord](https://discord.gg/fZC6hup). 
+
+<br />
+
+### What is [Django](https://www.djangoproject.com/)
+
+[Django](https://www.djangoproject.com/) is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites.
+
+<br />
+
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
 
 <br />
 
