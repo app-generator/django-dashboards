@@ -4,6 +4,10 @@
 
 <br />
 
+> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
+
+<br />
+
 ## About this bundle
 
 > All web apps presented on this page (free & paid) are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
