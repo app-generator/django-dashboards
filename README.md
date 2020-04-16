@@ -13,8 +13,8 @@
 
 >  Related Links
 
-- [Free Django Admin Dashboards](https://dev.to/sm0ke/django-admin-dashboards-open-source-and-free-1o80) - published on Dev.to
-- [Django Dashboard - Learn by Coding](https://dev.to/sm0ke/django-dashboard-learn-by-coding-437l) - a comprehensive tutorial published on Dev
+- [Django Admin Dashboards](https://dev.to/sm0ke/django-admin-dashboards-open-source-and-free-1o80) - published on Dev.to
+- [Django Dashboard](https://dev.to/sm0ke/django-dashboard-learn-by-coding-437l) - Learn by Coding - a comprehensive tutorial published on Dev
 
 <br />
 
