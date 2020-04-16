@@ -4,18 +4,17 @@
 
 <br />
 
-> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
-
-<br />
-
 ## About this bundle
 
 > All web apps presented on this page (free & paid) are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
 
 - [How I’ve built 100+ open-source apps with automation tools](https://dev.to/sm0ke/100-open-source-apps-built-with-automation-tools-3jmj)
 - [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
-- [Open-Source Web Apps - Grouped by UI Kits](https://dev.to/sm0ke/open-source-web-apps-grouped-by-ui-kits-389g)
-- [Dark Admin Dashboards - Open-Source and Free](https://dev.to/sm0ke/dark-admin-dashboards-open-source-and-free-2me9)
+
+>  Related Links
+
+- [Free Django Admin Dashboards](https://dev.to/sm0ke/django-admin-dashboards-open-source-and-free-1o80) - published on Dev.to
+- [Django Dashboard - Learn by Coding](https://dev.to/sm0ke/django-dashboard-learn-by-coding-437l) - a conprehensive tutorial published on Dev
 
 <br />
 
