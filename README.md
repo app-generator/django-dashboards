@@ -23,6 +23,7 @@
 
 | Item | Design | License | - | - | - |
 | --- | --- | --- | --- | --- | --- |
+[Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) | CodedThemes | MIT | [LIVE demo](https://django-dashboard-dattaable.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-dattaable) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)** 
 [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-black-pro)** 
 [Django Dashboard Material](https://appseed.us/admin-dashboards/django-dashboard-material) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
 [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) | Creative-Tim | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[PRO version](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
@@ -35,6 +36,27 @@
 [Django Dashboard Tabler](https://appseed.us/admin-dashboards/django-dashboard-tabler) | CodeCalm | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
 [Django Dashboard Adminator](https://appseed.us/admin-dashboards/django-dashboard-adminator) | ColorLib | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/login/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | CoreUI | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/login) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
+
+<br />
+
+## [Django Dashboard DattaAble](https://appseed.us/admin-dashboards/django-dashboard-dattaable) - [LIVE Demo](https://django-dashboard-dattaable.appseed.us)
+
+**Open-Source Admin Panel** coded in **[Django Framework](https://www.djangoproject.com/)** on top of **DattaAble Dashboard** design. **Features**:
+
+- SQLite, Django native ORM
+- Modular design
+- Session-Based Authentication (login, register)
+- Forms validation
+- UI Kit: **DattaAble** provided by **CodedThemes**
+- [Django Dashboard Black](https://github.com/app-generator/django-dashboard-dattaable) - source code
+
+<br />
+
+> Enjoy this design? Check out the **PRO version**: **[Django Dashboard DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)** that includes the **PRO UI Kit** (more pages and components) and **24/7 LIVE support** (via [Discord](https://discord.gg/fZC6hup), eMail and Github) 
+
+<br />
+
+![Django Dashboard DattaAble - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
 
 <br />
 
