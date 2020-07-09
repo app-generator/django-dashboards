@@ -70,7 +70,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -83,8 +83,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Django Dashboard Black](https://django-dashboard-black.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Black](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
+- [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
+- [Django Dashboard Black Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
 - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
 
 <br />
@@ -93,7 +93,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -106,8 +106,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Django Dashboard Argon](https://django-dashboard-argon.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
 - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
 
 <br />
@@ -116,7 +116,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+## [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -129,8 +129,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Django Dashboard GradientAble](https://django-dashboard-gradientable.appseed.us/login/) - LIVE Demo
-- [Django Dashboard GradientAble](https://appseed.us/admin-dashboards/django-dashboard-gradientable) - Product page
+- [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable) - Product page
+- [Django Dashboard GradientAble Demo](https://django-dashboard-gradientable.appseed.us/login/) - LIVE App
 - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
 
 <br />
@@ -139,7 +139,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+## [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -152,8 +152,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Django Dashboard CoreUI](https://django-dashboard-coreui.appseed.us/login/) - LIVE Demo
-- [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Product page
+- [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Product page
+- [Django Dashboard CoreUI Demo](https://django-dashboard-coreui.appseed.us/login/) - LIVE App
 - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
 
 <br />
@@ -162,7 +162,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-coreui)
+## [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features
 
@@ -175,8 +175,8 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 > Links
 
-- [Django Dashboard Atlantis](https://django-dashboard-atlantis.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Atlantis](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Product page
+- [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Product page
+- [Django Dashboard Atlantis Demo](https://django-dashboard-atlantis.appseed.us/login/) - LIVE App
 - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
 
 <br />
