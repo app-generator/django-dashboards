@@ -16,6 +16,21 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
+## Latest product - [Django AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh-ad-dash)
+
+**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
+
+> Links
+
+- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
+- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+
+<br />
+
+![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
+
+<br />
+
 ## [Django Dashboards](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
 
 <br />
@@ -51,6 +66,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | MIT | [LIVE demo](https://django-dashboard-atlantis.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | -
 [Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
 | **ColorLib** |  |  |  |  |
+[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte) | MIT | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
 [Django Dashboard - Adminator Design](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
 [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
@@ -67,6 +83,28 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 - [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index hosted by AppSeed
 - [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index hosted on Github
+
+<br />
+
+## [Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
+
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- UI Kit: **AdminLTE** provided by **ColorLib**
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, clean code-base
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- **[MIT License](https://github.com/app-generator/license-mit)**
+
+> Links
+
+- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
+- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+
+<br />
+
+![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
 
 <br />
 
