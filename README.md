@@ -16,18 +16,19 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## Latest product - [Django AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh-ad-dash)
+## Latest product - [Django Dashboard - Material Design](https://appseed.us/admin-dashboards/django-dashboard-material)
 
-**AdminLTE** Dashboard, the well-known design provided by ColorLib is now available in Django. The app is released as a free product, and based on the permissive license (MIT), can be used for unlimited hobby and commercial projects.
+Material Dashboard is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap 4 framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
 
 > Links
 
-- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
-- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+- [Django Dashboard - Material design](https://appseed.us/admin-dashboards/django-dashboard-material) - Product page
+- [Django Dashboard Material Demo](https://django-dashboard-material.appseed.us/) - LIVE App
+- [Django Dashboard Material Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-material/) - Product documentation
 
 <br />
 
-![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
+![Django Dashboard Material Design - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-material/master/media/django-dashboard-material-screen.png)
 
 <br />
 
