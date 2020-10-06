@@ -16,19 +16,16 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## Latest product - [Django Material Design](https://appseed.us/admin-dashboards/django-dashboard-material)
+## Latest product - [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
 
-Material Dashboard is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap 4 framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
 
-> Links
-
-- [Django Dashboard - Material design](https://appseed.us/admin-dashboards/django-dashboard-material) - Product page
-- [Django Dashboard Material Demo](https://django-dashboard-material.appseed.us/) - LIVE App
-- [Django Dashboard Material Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-material/) - Product documentation
+- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
+- [Django Dashboard Volt - Demo](https://django-dashboard-volt.appseed.us/) - LIVE deployment
 
 <br />
 
-![Django Dashboard Material Design - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-material/master/media/django-dashboard-material-screen.png)
+![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
 
 <br />
 
