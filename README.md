@@ -10,18 +10,19 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 
 <br />
 
-## [Django](https://www.djangoproject.com/)
+## [What is Django](https://docs.appseed.us/what-is/django/)
 
-**Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It's free and open source.
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 <br />
 
-## Latest product - [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
+## Latest product - [Django Dashboard Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
-- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
-- [Django Dashboard Volt - Demo](https://django-dashboard-volt.appseed.us/) - LIVE deployment
+- [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh) - Product page
+- [Django Datta Able Demo](https://django-dashboard-dattaable.appseed.us/login/) - LIVE deployment
+- **[Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro?ref=gh)** - Premium Version
 
 <br />
 
