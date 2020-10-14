@@ -30,9 +30,9 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-> Want more? Go PRO! Premium UI Kits, 24/7 LIVE via [Discord](https://discord.gg/fZC6hup)
+### Want more? Go PRO! 
 
-<br />
+> Premium UI Kits, 24/7 LIVE via [Discord](https://discord.gg/fZC6hup). 
 
 | [Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) |
 | --- | --- | --- |
