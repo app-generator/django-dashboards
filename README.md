@@ -86,29 +86,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-## [Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
-
-> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
-
-- UI Kit: **AdminLTE** provided by **ColorLib**
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **[MIT License](https://github.com/app-generator/license-mit)**
-
-> Links
-
-- [Django Dashboard - AdminLTE Design](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - Product page
-- [Django Dashboard AdminLTE Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
-
-<br />
-
-![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
-
-<br />
-
-## [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black)
+## [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh)
 
 Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
@@ -124,9 +102,9 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 > Links
 
-- [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black) - Product page
-- [Django Dashboard Black Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+- [Django Black Dashboard](https://appseed.us/admin-dashboards/django-dashboard-black?ref=gh) - Product page
+- [Django Black Dashboard Demo](https://django-dashboard-black.appseed.us/login/) - LIVE App
+- **[Django Black Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro?ref=gh)** - Premium Version
 
 <br />
 
@@ -134,31 +112,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-## [Django Dashboard - Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin)
-
-SB Admin is a free, open source, Bootstrap 4 based admin theme perfect for quickly creating dashboards and web applications. It's modern design style with subtle shadows and a card-based layout could be described as flat material, and is inspired by the principles of material design along with a simple, attractive color system.
-
-> App Features
-
-- UI Kit: **Sb Admin** (Free version) provided by **Start Bootstrap** agency
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Django Dashboard - Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) - Official product page
-- [Django Dashboard Sb Admin Demo](https://django-dashboard-sb-admin.appseed.us/) - LIVE App
-
-<br />
-
-![Django Dashboard - SB Admin Design.](https://raw.githubusercontent.com/app-generator/django-dashboard-sb-admin/master/media/django-dashboard-sb-admin-screen.png)
-
-<br />
-
-## [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
+## [Django Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh)
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
@@ -173,9 +127,9 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 > Links
 
-- [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - Product page
 - [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+- **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** - Premium Version
 
 <br />
 
@@ -183,7 +137,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 <br />
 
-## [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+## [Django Gradient Able](https://appseed.us/admin-dashboards/django-dashboard-gradientable?ref=gh)
 
 Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
 
@@ -198,9 +152,9 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 > Links
 
-- [Django Dashboard - GradientAble Design](https://appseed.us/admin-dashboards/django-dashboard-gradientable) - Product page
-- [Django Dashboard GradientAble Demo](https://django-dashboard-gradientable.appseed.us/login/) - LIVE App
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+- [Django Dashboard Gradient Able](https://appseed.us/admin-dashboards/django-dashboard-gradientable?ref=gh) - Product page
+- [Django Dashboard Gradient Able Demo](https://django-dashboard-gradientable.appseed.us/login/) - LIVE App
+- **[Django Dashboard Gradient Able PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro?ref=gh)** - Premium Version
 
 <br />
 
@@ -208,33 +162,7 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 <br />
 
-## [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui)
-
-CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
-
-> App Features
-
-- UI Kit: **CoreUI Dashboard** (Free version) provided by **CoreUI** agency
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Product page
-- [Django Dashboard CoreUI Demo](https://django-dashboard-coreui.appseed.us/login/) - LIVE App
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
-
-<br />
-
-![Django Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-coreui/master/media/django-dashboard-coreui-screen.png)
-
-<br />
-
-## [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
+## [Django Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis?ref=gh)
 
 Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
@@ -249,13 +177,37 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 > Links
 
-- [Django Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/django-dashboard-atlantis) - Product page
-- [Django Dashboard Atlantis Demo](https://django-dashboard-atlantis.appseed.us/login/) - LIVE App
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Codebase Documentation
+- [Django Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis?ref=gh) - Product page
+- [Django Atlantis Lite Demo](https://django-dashboard-atlantis.appseed.us/login/) - LIVE App
+- **[Django Atlantis Lite PRO](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)** - Premium Version
 
 <br />
 
 ![Django Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-atlantis/master/media/django-dashboard-atlantis-screen.png)
+
+<br />
+
+## [Django Dashboard Volt](http://appseed.us/admin-dashboards/django)
+
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+
+> App Features
+
+- UI Kit: **Django Dashboard Atlantis** (Free version) provided by **ThemeKita** agency
+-- SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+
+> Links
+
+- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - Product page
+- [Django Dashboard Volt - Demo](https://django-dashboard-volt.appseed.us/) - LIVE deployment
+
+<br />
+
+![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-screen.png)
 
 <br />
 
