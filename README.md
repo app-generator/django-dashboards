@@ -106,7 +106,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-![Flask Dashboard CoreUI - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
+![Django Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
 
 <br />
 
