@@ -16,7 +16,7 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 <br />
 
-## Latest product - [Django Dashboard Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh)
+## Latest product - [Django Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable?ref=gh)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Volt (free version), a modern Bootstrap dashboard design. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
@@ -26,7 +26,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
+![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
 
 <br />
 
