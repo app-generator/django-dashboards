@@ -76,7 +76,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 [Django Dashboard - Shards Design](https://appseed.us/admin-dashboards/django-dashboard-shards) | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
 [Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)**
 [Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
-[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) | MIT | [LIVE demo](https://django-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-volt) | - 
+[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) | MIT | [LIVE demo](https://django-dashboard-volt.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-volt) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)** 
 
 <br />
 
