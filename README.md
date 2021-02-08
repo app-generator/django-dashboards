@@ -67,7 +67,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 [Django Dashboard - Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | MIT | [LIVE demo](https://django-dashboard-atlantis.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | -
 [Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | MIT | [LIVE demo](https://django-dashboard-atlantis-dark.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
 | **ColorLib** |  |  |  |  |
-[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte) | MIT | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
+**[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
 [Django Dashboard - Adminator Design](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
 [Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
