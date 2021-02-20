@@ -1,6 +1,6 @@
 # [Django Dashboards](https://appseed.us/admin-dashboards/django-dashboard-black)
 
-> [Django Admin Panels](https://appseed.us/admin-dashboards/django) coded / generated in [Django](https://www.djangoproject.com/) by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
+> [Django Admin Panels](https://appseed.us/admin-dashboards/django) coded / generated in [Django](https://www.djangoproject.com/) by **AppSeed - [App Generator](https://appseed.us/app-generator)**.
 
 <br />
 
