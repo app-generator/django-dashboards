@@ -81,16 +81,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
 
-> App Features
-
-- UI Kit: **Django Dashboard Atlantis** (Free version) provided by **ThemeKita** agency
--- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
+<br />
 
 - [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
 - **[Django Dashboard Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - more pages, components**
@@ -105,16 +96,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
-> App Features
-
-- UI Kit: **Argon Dashboard** (Free version) provided by **Creative-Tim**
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
+<br />
 
 - [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - product page
 - **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - more pages, components**
@@ -129,16 +111,7 @@ Argon Dashboard is built with over 100 individual components, giving you the fre
 
 Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
 
-> App Features
-
-- UI Kit: **GradientAble Dashboard** (Lite Version) provided by **CodedThemes**
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
+<br />
 
 - [Django Gradient Able](https://appseed.us/admin-dashboards/django-dashboard-gradientable?ref=gh) - product page
 - **[Django Gradient Able PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro?ref=gh) - more pages, components**
@@ -153,16 +126,7 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
-> App Features
-
-- UI Kit: **Django Dashboard Atlantis** (Free version) provided by **ThemeKita** agency
--- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
+<br />
 
 - [Django Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis?ref=gh) - product page
 - **[Django Atlantis Lite PRO](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro) - more pages, components**
@@ -177,16 +141,7 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Star Admin** (free version), a modern Bootstrap dashboard design. Beautifully designed and well-coded admin template, that comes with excellent support from experts. One of the most popular free admin templates, Star Admin is a beautifully designed admin template with a lot of the polished Bootstrap components making up its dashboard and other pages.
 
-> App Features
-
-- UI Kit: **Django Dashboard Atlantis** (Free version) provided by **ThemeKita** agency
--- SQLite Database, Django Native ORM
-- Modular design, clean codebase
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-> Links
+<br />
 
 - [Django Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) - product page
 - **[Django Star Admin PRO](https://appseed.us/admin-dashboards/django-dashboard-staradmin-pro) - more pages, components**
