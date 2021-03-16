@@ -15,7 +15,7 @@ A **dashboard** is a set of pages that are easy to read and offer information to
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
 - [Django Datta Able](https://appseed.us/admin-dashboards/django-datta-able) - Product page
-- **[Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)** - Premium Version
+- **[Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)** - Premium Version (more pages, components, LIVE Support)
 
 <br />
 
