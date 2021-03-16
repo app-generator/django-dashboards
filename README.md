@@ -122,18 +122,18 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 <br />
 
-## [Django Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis)
+## [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
 Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
 <br />
 
-- [Django Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis?ref=gh) - product page
+- [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - product page
 - **[Django Atlantis Lite PRO](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro) - more pages, components**
 
 <br />
 
-![Django Dashboard Atlantis - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-atlantis/master/media/django-dashboard-atlantis-screen.png)
+![Django Atlantis Lite - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-atlantis-dark/master/media/django-dashboard-atlantis-dark-screen-1.png)
 
 <br />
 
