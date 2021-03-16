@@ -152,6 +152,21 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
+## [Django Corona Dark](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) 
+
+Corona Dark Free admin template has beautiful typography, crisp design, and neatly designed dashboards. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+<br />
+
+- [Django Corona Dark](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) - product page
+- **[Django Corona Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) - more pages, components**
+
+<br />
+
+![Django Dashboard Corona Dark - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-corona-dark/master/media/django-dashboard-corona-dark-screen.png)
+
+<br />
+
 ---
 [Django Dashboards](https://appseed.us/admin-dashboards/django) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
 
