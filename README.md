@@ -131,13 +131,13 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 <br />
 
-## [Django Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin)
+## [Django Star Admin](https://appseed.us/admin-dashboards/django-star-admin)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Star Admin** (free version), a modern Bootstrap dashboard design. Beautifully designed and well-coded admin template, that comes with excellent support from experts. One of the most popular free admin templates, Star Admin is a beautifully designed admin template with a lot of the polished Bootstrap components making up its dashboard and other pages.
 
 <br />
 
-- [Django Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) - product page
+- [Django Star Admin](https://appseed.us/admin-dashboards/django-star-admin) - product page
 - **[Django Star Admin PRO](https://appseed.us/admin-dashboards/django-dashboard-staradmin-pro) - more pages, components**
 
 <br />
