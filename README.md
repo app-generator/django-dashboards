@@ -4,8 +4,7 @@ A curated list with **[Django Dashboards](https://medium.com/@appseed.us/django-
 
 <br />
 
-### Latest product: [Datta Able](https://appseed.us/admin-dashboards/django-datta-able)
----
+## Latest product: [Datta Able](https://appseed.us/admin-dashboards/django-datta-able)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
@@ -18,8 +17,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-### Most Downloaded: [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
----
+## Most Downloaded: [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
 
