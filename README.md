@@ -1,25 +1,34 @@
 # Django Dashboards
 
-A curated list with **[Django Dashboards](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+A curated list with **[Django Dashboards](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
 
 <br />
 
-## What is a Dashboard
-
-A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
-
-<br />
-
-## Latest product - [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
+### Latest product: [Datta Able](https://appseed.us/admin-dashboards/django-datta-able)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
 
 - [Django Datta Able](https://appseed.us/admin-dashboards/django-datta-able) - Product page
-- **[Django Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)** - Premium Version (more pages, components, LIVE Support)
+- [Datta Able Django Demo](https://django-datta-able.appseed-srv1.com/) - LIVE Deployment
 
 <br />
 
 ![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
+
+<br />
+
+### Most Downloaded: [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
+
+Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
+
+<br />
+
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - product page
+- [Django Dashboard Argon Demo](https://django-argon-dashboard.appseed-srv1.com/) - LIVE deployment
+
+<br />
+
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
 
 <br />
 
@@ -92,29 +101,14 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-## [Django Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
-
-Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
-
-<br />
-
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - product page
-- **[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - more pages, components**
-
-<br />
-
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
-
-<br />
-
-## [Django Gradient Able](https://appseed.us/admin-dashboards/django-dashboard-gradientable)
+## [Django Gradient Able](https://appseed.us/admin-dashboards/django-gradient-able)
 
 Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
 
 <br />
 
-- [Django Gradient Able](https://appseed.us/admin-dashboards/django-dashboard-gradientable?ref=gh) - product page
-- **[Django Gradient Able PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro?ref=gh) - more pages, components**
+- [Django Gradient Able](https://appseed.us/admin-dashboards/django-gradient-able) - product page
+- **[Django Gradient Able PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro) - more pages, components**
 
 <br />
 
@@ -169,4 +163,3 @@ Corona Dark Free admin template has beautiful typography, crisp design, and neat
 
 ---
 [Django Dashboards](https://appseed.us/admin-dashboards/django) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
-
