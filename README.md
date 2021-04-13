@@ -17,21 +17,6 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-## Most Downloaded: [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
-
-Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
-
-<br />
-
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - product page
-- [Django Dashboard Argon Demo](https://django-argon-dashboard.appseed-srv1.com/) - LIVE deployment
-
-<br />
-
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
-
-<br />
-
 ### Want more? Go PRO! 
 
 > Premium UI Kits, LIFETIME updates and 24/7 LIVE Support provided by experts via [Discord](https://discord.gg/fZC6hup).
@@ -113,6 +98,21 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 <br />
 
 ![Django Dashboard GradientAble - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradientable/master/media/django-dashboard-gradientable-screen.png)
+
+<br />
+
+## [Argon Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon)
+
+Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. 
+
+<br />
+
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon?ref=gh) - product page
+- [Django Dashboard Argon Demo](https://django-argon-dashboard.appseed-srv1.com/) - LIVE deployment
+
+<br />
+
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
 
 <br />
 
