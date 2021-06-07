@@ -4,16 +4,16 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
-## Latest product: [Datta Able](https://appseed.us/admin-dashboards/django-datta-able)
+## Latest product: [Atlantis Lite Django](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design.
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. This open-source admin dashboard has 2 layouts, many plugins and UI components.
 
-- [Django Datta Able](https://appseed.us/admin-dashboards/django-datta-able) - Product page
-- [Datta Able Django Demo](https://django-datta-able.appseed-srv1.com/) - LIVE Deployment
+- [Atlantis Lite Django](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - product page
+- [Datta Able Django Demo](https://django-atlantis-dark.appseed-srv1.com/) - LIVE Deployment
 
 <br />
 
-![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
+![Atlantis Lite Django - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-atlantis-dark/master/media/django-dashboard-atlantis-dark-intro.gif)
 
 <br />
 
