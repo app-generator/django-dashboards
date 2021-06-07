@@ -9,7 +9,7 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Datta Able Design (free version), a modern Bootstrap 4 Admin template. Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. This open-source admin dashboard has 2 layouts, many plugins and UI components.
 
 - [Atlantis Lite Django](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - product page
-- [Datta Able Django Demo](https://django-atlantis-dark.appseed-srv1.com/) - LIVE Deployment
+- [Atlantis Lite Django](https://django-atlantis-dark.appseed-srv1.com/) - LIVE Deployment
 
 <br />
 
