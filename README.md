@@ -5,7 +5,6 @@ A curated list with **Django Dashboards** generated and actively supported by Ap
 <br />
 
 ## New - [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
----
 
 **Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
 
