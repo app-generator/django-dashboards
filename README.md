@@ -4,16 +4,18 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
-## New - [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
+## New - [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
 
-**Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
-
-- [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page
-- [Datta Able Django Demo](https://django-datta-able.appseed-srv1.com/) - LIVE Deployment
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
 
 <br />
 
-![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
+- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
+- [Django Dashboard Volt](https://django-volt-dashboard.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
 
 <br />
 
@@ -61,18 +63,16 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
-## [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
+## [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+**Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
 
-<br />
-
-- [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page
-- **[Django Dashboard Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro) - more pages, components**
+- [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page
+- [Datta Able Django Demo](https://django-datta-able.appseed-srv1.com/) - LIVE Deployment
 
 <br />
 
-![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-screen-widgets.png)
+![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-scree.png)
 
 <br />
 
