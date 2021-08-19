@@ -29,8 +29,6 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 [Django Dashboard - Black Design](https://appseed.us/admin-dashboards/django-dashboard-black) | MIT | [LIVE demo](https://django-dashboard-black.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)**
 [Django Dashboard - Material Design](https://appseed.us/admin-dashboards/django-dashboard-material) | MIT | [LIVE demo](https://django-dashboard-material.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)**
 [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) | MIT | [LIVE demo](https://django-dashboard-argon.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
-[Django Dashboard - Now UI Design](https://appseed.us/admin-dashboards/django-dashboard-nowui) | MIT | [LIVE demo](https://django-dashboard-nowui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-nowui) | **[Now UI PRO](https://appseed.us/admin-dashboards/django-dashboard-nowui-pro)**
-[Django Dashboard - Light Design](https://appseed.us/admin-dashboards/django-dashboard-light) | MIT | [LIVE demo](https://django-dashboard-light.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-light) | **[Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro)**
 | **CodedThemes** |  |  |  |  |
 [Django Dashboard - Datta Able](https://appseed.us/admin-dashboards/django-datta-able) | MIT | [LIVE demo](https://django-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-datta-able) | **[Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)**
 [Django Dashboard - Datta Able](https://appseed.us/admin-dashboards/django-datta-able) | MIT | [LIVE demo](https://django-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-datta-able) | **[Datta Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)**
@@ -50,11 +48,8 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 **[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | [EULA](https://github.com/app-generator/license-eula) | [LIVE demo](https://django-dashboard-adminlte.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
 [Django Dashboard - Adminator Design](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-dashboard-adminator.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
 | **Other Vendors** |  |  |  |  |  |
-[Django Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
-[Django Dashboard - Light Blue](https://appseed.us/admin-dashboards/django-dashboard-light-blue) | MIT | [LIVE demo](https://django-dashboard-light-blue.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-light-blue) | -
+[Django Dashboard - Core UI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-dashboard-coreui.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
 [Django Dashboard - Tabler Design](https://appseed.us/admin-dashboards/django-dashboard-tabler) | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
-[Django Dashboard - Shards Design](https://appseed.us/admin-dashboards/django-dashboard-shards) | MIT | [LIVE demo](https://django-dashboard-shards.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-shards) | -
-[Django iDashboard Free](https://appseed.us/admin-dashboards/django-idashboard-free) | [CC BY 4.0](https://github.com/app-generator/flask-idashboard-free/blob/master/LICENSE.md) | [LIVE demo](https://django-idashboard-free.appseed.us/) | [source code](https://github.com/app-generator/django-idashboard-free) | **[PRO Version](https://appseed.us/admin-dashboards/django-idashboard-pro)**
 [Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
 
 <br />
@@ -73,6 +68,19 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 <br />
 
 ![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-screen.png)
+
+<br />
+
+## [Django Soft UI Dashboard](https://appseed.us/product/django-soft-ui-dashboard)
+
+Admin dashboard coded in **Django** Framework. Designed for those who like bold elements and beautiful websites, **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Dashboard is ready to help you create stunning websites and webapps. **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.
+
+- [Django Soft UI Dashboard](https://appseed.us/product/django-soft-ui-dashboard) - product page
+- [Django Soft UI Dashboard](https://django-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![Django Soft UI Dashboard - Seed project generated by AppSeed.](https://user-images.githubusercontent.com/51070104/119937082-d5524080-bf92-11eb-83b2-19034824e934.png)
 
 <br />
 
