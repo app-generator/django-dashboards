@@ -67,7 +67,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-screen.png)
+![Django Datta Able - Open-Source Admin Panel Coded in Django.](https://raw.githubusercontent.com/app-generator/static/master/django-dashboard-dattaable/django-dashboard-dattaable-intro.gif)
 
 <br />
 
