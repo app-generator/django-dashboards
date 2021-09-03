@@ -10,7 +10,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-- **[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page** (contains DEMO & sources)
+> **[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page** (contains DEMO & sources)
 
 <br />
 
