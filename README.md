@@ -4,18 +4,18 @@ A curated list with **Django Dashboards** generated and actively supported by Ap
 
 <br />
 
-## New - [Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt)
+## New - [Django Material Dashboard](https://appseed.us/admin-dashboards/django-dashboard-material)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
-
-<br />
-
-- **[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - product page**
-- [Django Dashboard Volt](https://django-volt-dashboard.appseed-srv1.com/) - LIVE Demo
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Material Dashboard**, a free **Bootstrap 5** design with a fresh, new design inspired by Google's Material Design.
 
 <br />
 
-![Django Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-intro.gif)
+- **[Django Material Dashboard](https://appseed.us/admin-dashboards/django-dashboard-material) - product page**
+- [Django Material Dashboard](https://django-material-dashboard.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![Django Dashboard Volt - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/140610167-4efabef2-72a4-44ff-96a2-621ba38a6b91.gif)
 
 <br />
 
