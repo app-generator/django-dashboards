@@ -4,6 +4,10 @@ A curated list with **Django Dashboards** generated and actively supported by Ap
 
 <br />
 
+[![AppSeed - Black Friday Offer for 2021 ](https://user-images.githubusercontent.com/51070104/143680027-6aa964c6-a4f6-4615-a839-ad2546c7a281.jpg)](https://appseed.us/bundles/black-friday)
+
+<br />
+
 ## New - [Django Material Dashboard](https://appseed.us/admin-dashboards/django-dashboard-material)
 
 Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Material Dashboard**, a free **Bootstrap 5** design with a fresh, new design inspired by Google's Material Design.
