@@ -11,7 +11,7 @@ A lightweight UI coded in Django using a simple codebase and basic features: ses
 - **[Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page** 
 - [Datta Able Django](https://django-datta-able.appseed-srv1.com/) - LIVE Demo
 
----
+<br />
 
 ![Django Dashboard - Datta Able Design, GIF animated presentation.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/awpjjk24k7fpu7zh4140.gif)
 
