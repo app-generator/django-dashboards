@@ -1,21 +1,19 @@
 # [Django Dashboards](https://appseed.us/admin-dashboards/django)
 
-A curated list with **Django Dashboards** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
+A curated list with **[Django Dashboards]([Django Dashboards](https://appseed.us/admin-dashboards/django))** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
 
 <br />
 
-## New - [Django Material Dashboard](https://appseed.us/admin-dashboards/django-dashboard-material)
+## New - [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
 
-Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Material Dashboard**, a free **Bootstrap 5** design with a fresh, new design inspired by Google's Material Design.
+A lightweight UI coded in Django using a simple codebase and basic features: session-based authentication, ORM, bundled with deploy scripts for Docker and Heroku. [Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) Free Dashboard is the most stylized Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code.
 
-<br />
+- **[Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page** 
+- [Datta Able Django](https://django-datta-able.appseed-srv1.com/) - LIVE Demo
 
-- **[Django Material Dashboard](https://appseed.us/admin-dashboards/django-dashboard-material) - product page**
-- [Django Material Dashboard](https://django-material-dashboard.appseed-srv1.com/) - LIVE Demo
+---
 
-<br />
-
-![Django Dashboard Volt - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/140610167-4efabef2-72a4-44ff-96a2-621ba38a6b91.gif)
+![Django Dashboard - Datta Able Design, GIF animated presentation.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/awpjjk24k7fpu7zh4140.gif)
 
 <br />
 
