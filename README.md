@@ -139,7 +139,7 @@ Open-Source **Django Dashboard** coded with basic modules, database, ORM and dep
 
 <br />
 
-![Star Admin Django - Template project coded in Django with basic modules by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-staradmin/master/media/django-dashboard-staradmin-screen.png)
+![Star Admin Django - Template project coded in Django with basic modules by AppSeed.](https://user-images.githubusercontent.com/51070104/159160482-e32fc45c-30fe-4907-89d5-c9b69456574c.png)
 
 <br />
 
