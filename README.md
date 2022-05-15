@@ -1,14 +1,14 @@
 # [Django Dashboards](https://appseed.us/admin-dashboards/django)
 
-A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django)** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
+A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django/)** generated and actively supported by AppSeed. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides. 
 
 <br />
 
-## New - [Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able)
+## New - [Datta Able Django](https://appseed.us/product/datta-able/django/)
 
 A lightweight UI coded in Django using a simple codebase and basic features: session-based authentication, ORM, bundled with deploy scripts for Docker and Heroku. [Datta Able](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) Free Dashboard is the most stylized Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code.
 
-- **[Datta Able Django](https://appseed.us/admin-dashboards/django-datta-able) - product page** 
+- **[Datta Able Django](https://appseed.us/product/datta-able/django/) - product page** 
 - [Datta Able Django](https://django-datta-able.appseed-srv1.com/) - LIVE Demo
 
 <br />
