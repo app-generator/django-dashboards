@@ -74,41 +74,5 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 <br />
 
-## [Django Dashboards](https://appseed.us/admin-dashboards/django) - sorted by UI Kit provider
-
-<br />
-
-| Item | License | Demo | Sources |  |
-| --- | --- | --- | --- | --- |
-| **Creative-Tim** |  |  |  |  |
-[Django Dashboard - Black Design](https://appseed.us/product/black-dashboard/django/) | MIT | [LIVE demo](https://django-black-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-black) | **[Black PRO](https://appseed.us/product/black-dashboard-pro/django/)**
-[Django Dashboard - Material Design](https://appseed.us/product/material-dashboard/django/) | MIT | [LIVE demo](https://django-material-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-material) | **[Material PRO](https://appseed.us/product/material-dashboard2-pro/django/)**
-[Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) | MIT | [LIVE demo](https://django-argon-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-argon) | **[Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)**
-[Django Dashboard - Soft Dashboard](https://appseed.us/product/django-soft-ui-dashboard) | MIT | [LIVE demo](https://django-soft-ui-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-soft-ui-dashboard) | **[Soft PRO](https://appseed.us/product/django-soft-ui-dashboard-pro)**
-| **CodedThemes** |  |  |  |  |
-[Django Dashboard - Datta Able](https://appseed.us/admin-dashboards/django-datta-able) | MIT | [LIVE demo](https://django-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-datta-able) | **[Datta Able PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro)**
-[Django Dashboard - Datta Able](https://appseed.us/admin-dashboards/django-datta-able) | MIT | [LIVE demo](https://django-datta-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-datta-able) | **[Datta Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-dark-pro)**
-[Django Dashboard - Gradient Able](https://appseed.us/admin-dashboards/django-gradient-able) | MIT | [LIVE demo](https://django-gradient-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-gradient-able) | **[PRO Version](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro)**
-[Django Dashboard - Gradient Able](https://appseed.us/admin-dashboards/django-gradient-able) | MIT | [LIVE demo](https://django-gradient-able.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-gradient-able) | **[PRO Dark](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro)**
-| **Themesberg** |  |  |  |  |
-[Django Dashboard Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) | MIT | [LIVE demo](https://django-volt-dashboard.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-volt) | **[Volt PRO](https://appseed.us/admin-dashboards/django-dashboard-volt-pro)** 
-| **BootstrapDash** |  |  |  |  |
-[Django Dashboard - Azia](https://appseed.us/admin-dashboards/django-dashboard-azia) | MIT | [LIVE demo](https://django-dashboard-azia.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-azia)| **[Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)**
-[Django Dashboard - Corona Dark](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) | MIT | [LIVE demo](https://django-corona-dark.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-corona-dark)| **[Corona PRO](https://appseed.us/admin-dashboards/django-dashboard-corona-dark-pro)**
-[Django Dashboard - Star Admin](https://appseed.us/admin-dashboards/django-star-admin) | MIT | [LIVE demo](https://django-star-admin.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-star-admin)| **[Star Admin PRO](https://appseed.us/admin-dashboards/django-dashboard-staradmin-pro)**
-[Django Dashboard - Star Admin](https://appseed.us/admin-dashboards/django-star-admin) | MIT | [LIVE demo](https://django-star-admin.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-star-admin)| **[Star Black PRO](https://appseed.us/admin-dashboards/django-dashboard-staradmin-black-pro)**
-| **ThemeKita** |  |  |  |  |
-[Django Dashboard - Atlantis Lite](https://appseed.us/admin-dashboards/django-dashboard-atlantis) | MIT | [LIVE demo](https://django-atlantis-lite.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-atlantis) | **[Atlantis Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
-[Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | MIT | [LIVE demo](https://django-atlantis-dark.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-atlantis-dark) | **[Atlantis Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark-pro)**
-| **ColorLib** |  |  |  |  |
-**[Django Dashboard - AdminLTE](https://appseed.us/admin-dashboards/django-dashboard-adminlte)** | MIT | [LIVE demo](https://adminlte-django.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-adminlte) | -
-[Django Dashboard - Adminator Design](https://appseed.us/admin-dashboards/django-dashboard-adminator) | MIT | [LIVE demo](https://django-adminator.appseed-srv1.com/) | [source code](https://github.com/app-generator/django-dashboard-adminator) | -
-| **Other Vendors** |  |  |  |  |  |
-[Django Dashboard - Core UI](https://appseed.us/admin-dashboards/django-dashboard-coreui) | MIT | [LIVE demo](https://django-coreui.appseed-srv1.com) | [source code](https://github.com/app-generator/django-dashboard-coreui) | -
-[Django Dashboard - Tabler Design](https://appseed.us/admin-dashboards/django-dashboard-tabler) | MIT | [LIVE demo](https://django-dashboard-tabler.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-tabler) | -
-[Django Dashboard Sb Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) | MIT | [LIVE demo](https://django-dashboard-sb-admin.appseed.us/) | [source code](https://github.com/app-generator/django-dashboard-sb-admin) | - 
-
-<br />
-
 ---
 Django Dashboards (a curated list with projects) - Provided by **AppSeed** [App Generator](https://appseed.us/generator/).
