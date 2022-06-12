@@ -110,9 +110,5 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 
 <br />
 
-** Latest items dashboards - Full Index published hosted by AppSeed: [Django Dashboards](https://appseed.us/admin-dashboards/django)
-
-<br />
-
 ---
-Django Dashboards (a curated list with projects) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Django Dashboards (a curated list with projects) - Provided by **AppSeed** [App Generator](https://appseed.us/generator/).
