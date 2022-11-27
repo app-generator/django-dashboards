@@ -103,4 +103,4 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 <br />
 
 ---
-[Django Dashboards](https://appseed.us/admin-dashboards/django/) (a curated list with projects) - Provided by **AppSeed** [App Generator](https://appseed.us/generator/).
+[Django Dashboards](https://appseed.us/admin-dashboards/django/) (a curated list with projects) - Provided by [AppSeed](https://appseed.us/generator/).
