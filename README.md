@@ -4,6 +4,12 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
+## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+
+<br />
+
 ## ✨ [Volt Dashboard Django](https://appseed.us/product/volt-dashboard/django/)
 
 **[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
