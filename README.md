@@ -10,7 +10,7 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
-## [Django Berry Dashboard](https://blog.appseed.us/django-berry-bootstrap-5-free/)
+## ✨ [Django Berry Dashboard](https://blog.appseed.us/django-berry-bootstrap-5-free/)
 
 Open-source **Django** project crafted on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
