@@ -16,7 +16,7 @@ Open-source **Django** project crafted on top of **Berry Dashboard**, an open-so
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 - 👉 [Django Berry](https://django-berry-dashboard.onrender.com) - `LIVE Demo`
-- 🛒 **[Django Berry PRO](https://github.com/app-generator/django-berry-dashboard-pro)** - `Premium Version`
+- 👉 [Django Berry](https://github.com/app-generator/django-berry-dashboard) - `source code`
 
 ![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
 
