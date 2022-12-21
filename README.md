@@ -10,6 +10,18 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
+## [Django Berry Dashboard](https://blog.appseed.us/django-berry-bootstrap-5-free/)
+
+Open-source **Django** project crafted on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+
+- 👉 [Django Berry](https://django-berry-dashboard.onrender.com) - `LIVE Demo`
+- 🛒 **[Django Berry PRO](https://github.com/app-generator/django-berry-dashboard-pro)** - `Premium Version`
+
+![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
+
+<br />
+
 ## ✨ [Volt Dashboard Django](https://appseed.us/product/volt-dashboard/django/)
 
 **[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
