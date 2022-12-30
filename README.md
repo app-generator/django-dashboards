@@ -6,7 +6,7 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 ## 🎁 `PROMO` [Campaign Boost 2023](https://appseed.us/discounts/) `75%OFF` 
 
-> This **PROMO Campaign** is active during `15.DEC-15.IAN` and applies to all `products & licenses`.
+> This **Campaign** is active during `15.DEC-15.IAN` and applies to all `products & licenses`.
 
 [![Campaign Boost 2023 - AppSeed Winter PROMO, 75%OFF (all products & licenses)](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
 
