@@ -4,14 +4,6 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br />
 
-## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
-
-> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
-
-[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
-
-<br />
-
 ## ✨ [Datta Able Django](https://appseed.us/product/datta-able/django/)
 
 **Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
