@@ -1,6 +1,6 @@
-# [Django Dashboards](https://appseed.us/admin-dashboards/django/)
+# Django Dashboards
 
-A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django/)** generated and actively supported by `AppSeed`. For newcomers, **[Django](https://appseed.us/admin-dashboards/django/)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+A curated list with **[Django Dashboards](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)** generated and actively supported by `AppSeed`. For newcomers, **[Django](https://www.djangoproject.com/)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
 <br />
 
