@@ -2,14 +2,6 @@
 
 A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django/)** generated and actively supported by `AppSeed`. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
----
-
-## 🚀 **[Black Friday Campaign](https://appseed.us/)** is LIVE: `65%Off`
-
-> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
- 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
-
 <br />
 
 ## [Soft UI Dashboard Django](https://appseed.us/product/soft-ui-dashboard/django/)
