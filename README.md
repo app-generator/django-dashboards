@@ -30,7 +30,7 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br /> 
 
-## [Rocket Django](https://github.com/app-generator/rocket-django)
+## [Rocket Django](https://github.com/app-generator/rocket-django) `TailwindCSS`
 
 This Django Boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
