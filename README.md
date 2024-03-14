@@ -30,6 +30,36 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 <br /> 
 
+## [Rocket Django](https://github.com/app-generator/rocket-django)
+
+The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+
+> **Features and Tech Stack**: `TailwindCSS` • `Flowbite` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
+
+<br />
+
+| Free Version                            | PRO - 🛒 **[$99](https://appseed.gumroad.com/l/rocket-django)** | Enterprise - 🛒 **[$4,999](https://appseed.gumroad.com/l/rocket-django-enterprise)** |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Django 4.1.12**                                                 | **Everything in Free**, plus:                                                       | **Everything in PRO**, plus:          |
+| ✓ Best Practices                                                    | ✅ **OAuth** `Google`, `GitHub`                                                     | ✅ **[CSV to Model Generator](https://www.youtube.com/watch?v=O6c76T3VYU8)**         | 
+| ✓ **TailwindCSS**/`Flowbite`                                        | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)            | ✅ **[CSV Data Loader](https://www.youtube.com/watch?v=O6c76T3VYU8)**                |
+| ✓ Extended User Model                                               | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)        | ✅ **2 Weeks Custom Development**     |
+| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)     | ✅ **[Media Files Manager](https://rocket-django-pro.onrender.com/file-manager/)**  | ✅ **1 Hour Video Call Presentation** |
+| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/) | ✅ **Stripe** Payments                                                              | ✅ Dedicated Support                  |
+| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`  | ✅ **Wagtail** CMS                                                                  | ✅ LIVE Deploy Assistance             |
+| ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                | ✅ CI/CD for AWS, Azure, DO           |
+| ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     | -                                      |
+| ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 | -                                      |
+| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             | -                                      |
+|  -                                                                  | ✅ `Private REPO Access`                                                            | -                                      |
+|  -                                                                  | ✅ `Lifetime Updates`                                                               | -                                      |
+| ------------------------------------| ------------------------------------| ------------------------------------|
+| 🚀 [LIVE Demo](https://rocket-django.onrender.com/)                | 🚀 [LIVE Demo](https://rocket-django-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-django-enterprise)** |   
+
+![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
+
+<br /> 
+
 ## [Volt Dashboard Django](https://appseed.us/product/volt-dashboard/django/)
 
 **[Volt Dashboard](https://appseed.us/generator/volt-dashboard/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, datepickers and so on.
