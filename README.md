@@ -50,7 +50,7 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 | ✓ [Celery Beat](https://rocket-django.onrender.com/tasks/)          | ✅ **Multi-Language** (i18n) Support                                                | ✅ CI/CD for AWS, Azure, DO           |
 | ✓ `Docker`                                                          | ✅ **Sentry** `Error Reporting`                                                     | -                                      |
 | ✓ `CI/CD` Flow via Render                                           | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                 | -                                      |
-| ✓ `Free Support` (GitHub Issues)                                    | ✅ `Unlimited Projects`                                                             | -                                      |
+| ✓ `Free Support`                                                    | ✅ `Unlimited Projects`                                                             | -                                      |
 |  -                                                                  | ✅ `Private REPO Access`                                                            | -                                      |
 |  -                                                                  | ✅ `Lifetime Updates`                                                               | -                                      |
 | ------------------------------------| ------------------------------------| ------------------------------------|
