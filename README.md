@@ -32,7 +32,7 @@ A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/dj
 
 ## [Rocket Django](https://github.com/app-generator/rocket-django)
 
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
+This Django Boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
 
 > **Features and Tech Stack**: `TailwindCSS` • `Flowbite` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
 
