@@ -43,7 +43,7 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 | Free Version                          | [PRO Version](https://appseed.us/product/datta-able-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                   | **Everything in Free**, plus:                                                          | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                      | ✅ **1 Week** `Custom Development`  | 
 | ✓ Bootstrap 4, `Datta Able` Design    | ✅ `OAuth` Google, GitHub                                                              | ✅ **Team**: PM, Developer, Tester  |
 | ✓ API Generator                       | ✅ `API`, **[Charts](https://django-datta-pro.onrender.com/charts/)**                  | ✅ Weekly Sprints                   |
 | ✓ DataTables                          | ✅ **[Enhanced DataTables](https://django-datta-pro.onrender.com/tables/)**            | ✅ Technical SPECS                  |
@@ -56,7 +56,7 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 | -                                     | ✅ Deployment Assistance                                                               |  -                                   |
 | -                                     | -                                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                    | ------------------------------------|
-| ✓ [LIVE Demo](https://django-datta-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-datta-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://django-datta-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-datta-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |   
 
 ![Free Django Dashboard and Admin Template - Datta Able Design.](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
 
@@ -86,7 +86,7 @@ The product is designed to deliver the best possible user experience with highly
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
 | -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
 | ------------------------------------  | ------------------------------------                                 | ------------------------------------|
-| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |   
 
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
@@ -100,7 +100,7 @@ The product is designed to deliver the best possible user experience with highly
 | Free Version                          | [PRO Version](https://appseed.us/product/volt-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                                  | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1 Week** `Custom Development`  |  
 | ✓ Bootstrap 5 Design                  | ✅ `OAuth` Google, GitHub                                                                      | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-volt-dashboard-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
 | ✓ `Docker`                            | ✅ **[DataTables](https://django-volt-dashboard-pro.onrender.com/tables/)** (Filters, Export)  | ✅ Technical SPECS                  |
@@ -111,7 +111,7 @@ The product is designed to deliver the best possible user experience with highly
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-volt.onrender.com)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
+| ✓ [LIVE Demo](https://django-volt.onrender.com)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |    
 
 ![Free Django Dashboard and Admin Template - Volt BS5 Design.](https://user-images.githubusercontent.com/51070104/168843604-b026fd94-5969-4be7-81ac-5887cf0958e5.png)
 
@@ -124,7 +124,7 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** 
 | Free Version                          | [PRO Version](https://appseed.us/product/soft-ui-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                             | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                         | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                         | ✅ **1 Week** `Custom Development`  |  
 | ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                                                 | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-soft-dash-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
 | ✓ `Docker`                            | ✅ **[DataTables](https://django-soft-dash-pro.onrender.com/tables/)** (Filters, Export)  | ✅ Technical SPECS                  |
@@ -135,7 +135,7 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** 
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                        |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                                   |  -                                   |
 | ------------------------------------  | ------------------------------------                                                       | ------------------------------------|
-| ✓ [LIVE Demo](https://django-soft-dash.onrender.com)  | 🚀 [LIVE Demo](https://django-soft-dash-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |  
+| ✓ [LIVE Demo](https://django-soft-dash.onrender.com)  | 🚀 [LIVE Demo](https://django-soft-dash-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |  
 
 ![Free Django App - Soft UI Kit BS5 Design.](https://user-images.githubusercontent.com/51070104/175773323-3345d618-0e78-4c85-83fc-f495dc3f0bb0.png)
 
@@ -148,7 +148,7 @@ A pixel-perfect Bootstrap 5 UI kit with prebuilt design blocks, 4 sample pages, 
 | Free Version                          | [PRO Version](https://appseed.us/product/pixel-bootstrap-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) | 
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**       |  
+| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1 Week** `Custom Development`  |   
 | ✓ Bootstrap Design                    | ✅ `Private REPO Access`                                             | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `Docker`                            | ✅ OAuth - Github, Twitter                                           | ✅ Weekly Sprints                   |
 | ✓ `CI/CD` Flow via Render             | ✅ Extended User Profile                                             | ✅ Technical SPECS                  |
@@ -156,7 +156,7 @@ A pixel-perfect Bootstrap 5 UI kit with prebuilt design blocks, 4 sample pages, 
 | -                                     | ✅ Deployment Assistance                                             | ✅ **30 days Delivery Warranty**     |
 | -                                     |  -                                                                    |  -                                   |
 | ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-material-kit.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-material-kit2-enh.appseed-srv1.com) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |  
+| ✓ [LIVE Demo](https://django-material-kit.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-material-kit2-enh.appseed-srv1.com) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |  
 
 ![Free Django App - Material Kit BS5 Design.](https://user-images.githubusercontent.com/51070104/167396765-c88b7a95-155f-4236-8691-7b80fa2d9cd9.png)
 
@@ -169,7 +169,7 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 | Free Version                          | [PRO Version](https://appseed.us/product/gradient-able-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                             | **Everything in PRO**, plus:        |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                        | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                        | ✅ **1 Week** `Custom Development`  | 
 | ✓ Bootstrap 4, `Datta Able` Design    | ✅ `OAuth` Google, GitHub                                                                | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `Docker`                            | ✅ `API`, **[Charts](https://django-gradient-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
 | ✓ `CI/CD` Flow via Render             | ✅ **[DataTables](https://django-gradient-pro.onrender.com/tables/)** (Filters, Export)  | ✅ Technical SPECS                  |
@@ -180,7 +180,7 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                       |  -                                  |
 | -                                     | ✅ Deployment Assistance                                                                  |  -                                  |
 | ------------------------------------  | ------------------------------------                                                      | ------------------------------------|
-| ✓ [LIVE Demo](https://django-gradient-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-gradient-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://django-gradient-able.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-gradient-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |   
 
 ![Free Django Dashboard and Admin Template - Gradient Able BS5 Design.](https://user-images.githubusercontent.com/51070104/171583187-c4ca1bef-b535-458e-9250-8d62ba1f5b30.png)
 
@@ -193,7 +193,7 @@ Designed for those who like bold elements and beautiful websites, **[Material Da
 | Free Version                          | [PRO Version](https://appseed.us/product/material-dashboard2-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                                                  | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1 Week** `Custom Development`  |  
 | ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                                                      | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-material-dash2-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
 | ✓ `Docker`                            | ✅ **[DataTables](https://django-material-dash2-pro.onrender.com/tables/)** (Filters, Export)   | ✅ Technical SPECS                  |
@@ -204,7 +204,7 @@ Designed for those who like bold elements and beautiful websites, **[Material Da
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-material-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-material-dash2-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://django-material-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-material-dash2-pro.onrender.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |   
 
 ![Free Django Dashboard and Admin Template - Material Dashboard BS5 Design.](https://user-images.githubusercontent.com/51070104/169301658-6cf27993-c451-4cd4-9ffa-2968b8981167.png)
 
@@ -217,14 +217,14 @@ Atlantis Lite is a free Bootstrap 4 admin dashboard that is beautifully and eleg
 | Free Version                          | [PRO Version](https://appseed.us/product/atlantis-dark-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |   
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1 Week** `Custom Development`  |  
 | ✓ Bootstrap Design                    | ✅ `Private REPO Access`                                             | ✅ **Dedicated Developer**        |
 | ✓ `Docker`                            | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  | ✅ Weekly Sprints                 |
 | ✓ `CI/CD` Flow via Render             | ✅ Deployment Assistance                                             | ✅ Technical SPECS                |
 | ✓ `Free Support                       | -                                                                     | ✅ Documentation                  |
 | -                                     | -                                                                     | ✅ **30 days Delivery Warranty**  |
 | ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-atlantis-dark.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-atlantis-dark-pro.appseed-srv1.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |  
+| ✓ [LIVE Demo](https://django-atlantis-dark.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-atlantis-dark-pro.appseed-srv1.com/) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |  
 
 ![Free Django Dashboard and Admin Template - Atlantis Dark Design.](https://user-images.githubusercontent.com/51070104/172799909-4cbc8eed-fdde-4408-ab61-123f235212d0.png)
 
@@ -238,7 +238,7 @@ The product is designed to deliver the best possible user experience with highly
 | Free Version                          | [PRO Version](https://appseed.us/product/berry-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                         | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                     | ✅ **1mo Custom Development**       | 
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                     | ✅ **1 Week** `Custom Development`  | 
 | ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                             | ✅ **Team**: PM, Developer, Tester  |
 | ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                  | ✅ Weekly Sprints                   |
 | ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                   | ✅ Technical SPECS                  |
@@ -249,7 +249,7 @@ The product is designed to deliver the best possible user experience with highly
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)   |  -                                   |
 | -                                     | ✅ Deployment Assistance                                              |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-berry.onrender.com)  | 🚀 [LIVE Demo](https://django-berry-pro.onrender.com) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |  
+| ✓ [LIVE Demo](https://django-berry.onrender.com)  | 🚀 [LIVE Demo](https://django-berry-pro.onrender.com) | 🛒 `Order`: **[$999](https://appseed.gumroad.com/l/rocket-package-week)** (GUMROAD) |  
 
 ![Free Django Dashboard and Admin Template - Berry Dashboard BS5 Design.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
 
