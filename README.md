@@ -6,7 +6,7 @@ A curated list with **[Django Dashboards](https://app-generator.dev/product/tags
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
-Open-source **Django** project crafted on top of **[AdminLTE](https://appseed.us/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+Open-source **Django** project crafted on top of **AdminLTE**, an open-source and iconic `Bootstrap` design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - Complete Documentation
