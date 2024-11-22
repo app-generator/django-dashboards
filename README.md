@@ -1,36 +1,19 @@
-# [Django Dashboards](https://app-generator.dev/product/tags/django/)
+# [Django Dashboards](https://app-generator.dev/admin-dashboards/django/)
 
-A curated list with **[Django Dashboards](https://app-generator.dev/product/tags/django/)** generated and actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** generated and actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+
+> New to Django? - Read more about it: [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html)   
 
 <br />
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
-Open-source **Django** project crafted on top of **AdminLTE**, an open-source and iconic `Bootstrap` design.
+Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - **Complete Documentation**
 - 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - Product page
 - 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - LIVE Demo
-
-<br />
-
-| [Free Version](https://app-generator.dev/product/adminlte/django/)                          | [AdminLTE PRO](https://app-generator.dev/product/adminlte-pro/django/)    | [Custom Development](https://app-generator.dev/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                    | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                    | ✅ **1mo Custom Development**       | 
-| ✓ Bootstrap 5, `Material` Design      | ✅ `OAuth` Google, GitHub                                            | ✅ **Team**: PM, Developer, Tester  |
-| ✓ `CI/CD` Flow via Render             | ✅ `API`, **Charts**                                                 | ✅ Weekly Sprints                   |
-| ✓ `Docker`                            | ✅ **DataTables** (Filters, Export)                                  | ✅ Technical SPECS                  |
-| -                                     |✅ **Celery**                                                         | ✅ Documentation                    |
-| -                                     | ✅ **Media Files Manager**                                           | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                        |  -                                   |
-| -                                     | ✅ `Private REPO Access`                                             |  -                                   |
-| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)  |  -                                   |
-| -                                     | ✅ [AWS, DO, Azure Deploy Assistance](https://deploypro.dev/)        |  -                                   |
-| ------------------------------------  | ------------------------------------                                 | ------------------------------------|
-| ✓ [LIVE Demo](https://adminlte-django.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-adminlte-pro.onrender.com/) | **[Get in Touch ➡️](https://app-generator.dev/custom-development/)** |   
-
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
