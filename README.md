@@ -8,7 +8,7 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind`
 
-Open-source **Django Template styled with Tailwind CSS/Flowbite**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+Open-source **Django Template styled with Tailwind CSS/Flowbite**. The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
 
 A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
 
