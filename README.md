@@ -51,7 +51,7 @@ This template can be used to start a new project quickly by adding new features 
 
 <br /> 
 
-## [Volt Dashboard Django](https://app-generator.dev/product/volt-dashboard/django/)
+## [Django Volt Dashboard](https://app-generator.dev/product/volt-dashboard/django/)
 
 Django Volt Dashboard is an open-source starter built with basic modules, authentication, and Docker support on top of a pixel-perfect Bootstrap 5 design.
 **Volt Dashboard** is a free and open-source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages, and 3 plugins with Vanilla JS. 
