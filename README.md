@@ -6,6 +6,26 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind CSS`
+
+Open-source **Django Template styled with Tailwind CSS/Flowbite**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo` 
+- 👉 [Django Rocket Documentation](https://app-generator.dev/docs/products/django/rocket/index.html) - `Complete Information` and Support Links
+  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - a `comprehensive tutorial`
+  - `Configuration`: Install Tailwind/Flowbite, Prepare Environment, Setting up the Database 
+  - `Start with Docker`
+  - `Manual Build`
+  - `Start the project`
+  - `Deploy on Render`
+
+![Django Rocket - Open-Source Django Starter styled with Tailwind/Flowbite](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+  
+<br />
+
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
@@ -16,38 +36,6 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - LIVE Demo
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
-<br />
-
-## [Rocket Django](https://appseed.us/product/rocket/django/) `Tailwind`
-
-The Django boilerplate has all you need to build your SaaS, Analytics tool, or any other type of Web App. From idea to production in 5 minutes.
-
-> **Features**: `Django` • `Tailwind` • `API` (DRF) • `Celery Beat` • `DataTables` • `Charts` • `Docker` • `CI/CD`.
-
-<br />
-
-| [Free Version](https://appseed.us/product/rocket/django/)           | [PRO Version](https://appseed.us/product/rocket-pro/django/) | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Django 4.2.9**                                                   | **Everything in Free**, plus:                                                  | **Everything in PRO**, plus:         |
-| ✓ **Best Practices**, `Modular Codebase`                             | ✅ **OAuth** `GitHub`                                                         | ✅ **1 Week** `Custom Development`  | 
-| ✓ **TailwindCSS**/`Flowbite`                                         | ✅ **Media Files Manager**                                                    | ✅ **Team**: PM, Developer, Tester  |
-| ✓ Extended User Model                                                | ✅ **React** / `ApexCharts`                                                   | ✅ Weekly Sprints                   |
-| ✓ `Simple` [Charts](https://rocket-django.onrender.com/charts/)      | ✅ **Enhanced** [Charts](https://rocket-django-pro.onrender.com/charts/)      | ✅ Technical SPECS                  |
-| ✓ `Simple` [DataTables](https://rocket-django.onrender.com/tables/)  | ✅ **Enhanced** [DataTables](https://rocket-django-pro.onrender.com/tables/)  | ✅ Documentation                    |
-| ✓ [API](https://rocket-django.onrender.com/api/product/) via `DRF`   | ✅ **Multi-Language** (i18n)                                                  | ✅ **30 days Delivery Warranty**    |
-| ✓ `Docker`                                                           | ✅ **Sentry** `Error Reporting`                                               | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
-| ✓ `Free Support` (GitHub Issues)                                     | ✅ **[Celery](https://rocket-django.onrender.com/tasks/)** (async tasks)      |  -                                   |
-| -                                                                    | ✅ **[Premium Support](https://appseed.us/support/)**                         |  -                                   |
-| -                                                                    | ✅ `Unlimited Projects` & **SaaS**                                            |  -                                   |
-| -                                                                    | ✅ `Private REPO Access`                                                      |  -                                   |
-| -                                                                    | ✅ `Lifetime Updates`                                                         |  -                                   |
-| ------------------------------------| ------------------------------------| ------------------------------------|
-| ✓ [Rocket Demo](https://rocket-django.onrender.com/)                | 🚀 **[Rocket PRO Demo](https://rocket-django-pro.onrender.com/)** | **[Get in Touch ➡️](https://appseed.us/custom-development/)** |    
-
-<br />
-
-![Free Django Dashboard and Admin Template - Rocket Django.](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272299949-6f4a8fd7-7cce-472a-9566-9519db338c7d.gif)
 
 <br />
 
