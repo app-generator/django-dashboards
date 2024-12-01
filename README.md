@@ -6,6 +6,19 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Complete Information` and Support Links
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/) `Tailwind`
 
 Open-source **Django Template styled with Tailwind CSS/Flowbite**. The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
@@ -23,19 +36,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind/Flowbite](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
-<br />
-
-## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
-
-Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
-- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Complete Information` and Support Links
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
 <br />
 
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
