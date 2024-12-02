@@ -6,6 +6,19 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
+
+Open-source **[Django Dashboard](https://app-generator.dev/admin-dashboards/django/)** built on a modern design. Designed for those who like bold elements and beautiful websites, **Soft UI Dashboard** is ready to help you create stunning websites and web apps. 
+**Soft UI Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
+- 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
+- 👉 [Django Soft UI Dashboard Documentation](https://app-generator.dev/docs/products/django/soft-ui-dashboard/index.html) - `Complete Information` and Support Links
+
+![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
+
+<br />
+
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
@@ -61,19 +74,6 @@ Django Volt Dashboard is an open-source starter built with basic modules, authen
 - 👉 [Django Volt Dashboard Documentation](https://app-generator.dev/docs/products/django/volt-dashboard/index.html) - `Complete Information` and Support Links
 
 ![Free Django Dashboard and Admin Template - Volt BS5 Design.](https://user-images.githubusercontent.com/51070104/168843604-b026fd94-5969-4be7-81ac-5887cf0958e5.png)
-
-<br />
-
-## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
-
-Open-source **[Django Dashboard](https://app-generator.dev/admin-dashboards/django/)** built on a modern design. Designed for those who like bold elements and beautiful websites, **Soft UI Dashboard** is ready to help you create stunning websites and web apps. 
-**Soft UI Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
-- 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
-- 👉 [Django Soft UI Dashboard Documentation](https://app-generator.dev/docs/products/django/soft-ui-dashboard/index.html) - `Complete Information` and Support Links
-
-![Free Django App - Soft UI Kit BS5 Design.](https://user-images.githubusercontent.com/51070104/175773323-3345d618-0e78-4c85-83fc-f495dc3f0bb0.png)
 
 <br />
 
