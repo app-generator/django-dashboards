@@ -6,6 +6,20 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django Dashboard Material](https://app-generator.dev/product/material-dashboard/django/)
+
+Free starter built on Bootstrap and Django with database, authentication, and Docker support. Designed for those who like bold elements and beautiful websites, **Material Dashboard** is ready to help you create stunning websites and web apps. 
+
+**Material Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Django Dashboard Material](https://app-generator.dev/product/material-dashboard/django/) - `Product Page`
+- 👉 [Django Dashboard Material](https://django-material-dash2.onrender.com/) - `LIVE Demo` 
+- 👉 [Django Dashboard Material Documentation](https://app-generator.dev/docs/products/django/material-dashboard/index.html) - `Complete Information` and Support Links
+
+![Free Django Dashboard and Admin Template - Material Dashboard BS5 Design.](https://github.com/user-attachments/assets/db3607ed-f586-442e-8715-7f0357c28261)
+
+<br />
+
 ## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
 
 Open-source **[Django Dashboard](https://app-generator.dev/admin-dashboards/django/)** built on a modern design. Designed for those who like bold elements and beautiful websites, **Soft UI Dashboard** is ready to help you create stunning websites and web apps. 
@@ -97,20 +111,6 @@ Gradient Able Free Bootstrap 4 Free/Lite Admin Template is a complete solution f
 - 👉 [Django Gradient Able Documentation](https://app-generator.dev/docs/products/django/gradient-able/index.html) - `Complete Information` and Support Links
 
 ![Free Django Dashboard and Admin Template - Gradient Able BS5 Design.](https://user-images.githubusercontent.com/51070104/171583187-c4ca1bef-b535-458e-9250-8d62ba1f5b30.png)
-
-<br />
-
-## [Django Dashboard Material](https://app-generator.dev/product/material-dashboard/django/)
-
-Free starter built on Bootstrap and Django with database, authentication, and Docker support. Designed for those who like bold elements and beautiful websites, **Material Dashboard** is ready to help you create stunning websites and web apps. 
-
-**Material Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Django Dashboard Material](https://app-generator.dev/product/material-dashboard/django/) - `Product Page`
-- 👉 [Django Dashboard Material](https://django-material-dash2.onrender.com/) - `LIVE Demo` 
-- 👉 [Django Dashboard Material Documentation](https://app-generator.dev/docs/products/django/material-dashboard/index.html) - `Complete Information` and Support Links
-
-![Free Django Dashboard and Admin Template - Material Dashboard BS5 Design.](https://user-images.githubusercontent.com/51070104/169301658-6cf27993-c451-4cd4-9ffa-2968b8981167.png)
 
 <br />
 
