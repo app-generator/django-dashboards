@@ -2,8 +2,11 @@
 
 A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
-> New to Django? - Read more about it and code your first app today: [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html)   
+> 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
 
+![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
+![Django App Generator - Design Database](https://github.com/user-attachments/assets/330c6ba5-6066-46f0-9d0f-c7161410eb5a)
+   
 <br />
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
