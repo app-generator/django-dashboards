@@ -24,19 +24,6 @@ This template can be used to start a new project quickly by adding new features 
    
 <br />
 
-## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
-
-Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
-- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Complete Information` and Support Links
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
-<br />
-
 ## [Django Dashboard Material](https://app-generator.dev/product/material-dashboard/django/)
 
 Free starter built on Bootstrap and Django with database, authentication, and Docker support. Designed for those who like bold elements and beautiful websites, **Material Dashboard** is ready to help you create stunning websites and web apps. 
@@ -48,6 +35,19 @@ Free starter built on Bootstrap and Django with database, authentication, and Do
 **Material Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
 ![Free Django Dashboard and Admin Template - Material Dashboard BS5 Design.](https://github.com/user-attachments/assets/db3607ed-f586-442e-8715-7f0357c28261)
+
+<br />
+
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+Open-source **Django** project crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/django/)**, an open-source and iconic `Bootstrap` design.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Complete Information` and Support Links
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
 <br />
 
