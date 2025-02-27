@@ -2,6 +2,21 @@
 
 A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
+<br /> 
+
+## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
+
+Open-Source Django Template built with a minimum set of features on top of Datta Able, a modern dashboard design from CodedThemes. 
+This template can be used to start a new project quickly by adding new features on top of the existing ones or simply for learning purposes.
+
+- 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
+- 👉 [Django Datta Able](https://django-datta-able.appseed-srv1.com) - `LIVE Demo` 
+- 👉 [Django Datta Able Documentation](https://app-generator.dev/docs/products/django/datta-able/index.html) - `Complete Information` and Support Links
+
+![Free Django Dashboard and Admin Template - Datta Able Design.](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
+
+<br /> 
+
 > 👉 Build your starter with **[Django App Generator](https://app-generator.dev/tools/django-generator/)** and customize: `DB Tables`, `Auth`, `Async Tasks`, `Docker`, `CI/Cd Scripts`
 
 ![Django App Generator - Select Design](https://github.com/user-attachments/assets/d94dd5bf-dc5e-46c5-a69f-997ec4b46209)
@@ -67,19 +82,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind/Flowbite](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
 <br />
-
-## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
-
-Open-Source Django Template built with a minimum set of features on top of Datta Able, a modern dashboard design from CodedThemes. 
-This template can be used to start a new project quickly by adding new features on top of the existing ones or simply for learning purposes.
-
-- 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
-- 👉 [Django Datta Able](https://django-datta-able.appseed-srv1.com) - `LIVE Demo` 
-- 👉 [Django Datta Able Documentation](https://app-generator.dev/docs/products/django/datta-able/index.html) - `Complete Information` and Support Links
-
-![Free Django Dashboard and Admin Template - Datta Able Design.](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
-
-<br /> 
 
 ## [Django Volt Dashboard](https://app-generator.dev/product/volt-dashboard/django/)
 
