@@ -10,7 +10,7 @@ Open-Source Django Template built with a minimum set of features on top of Datta
 This template can be used to start a new project quickly by adding new features on top of the existing ones or simply for learning purposes.
 
 - 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
-- 👉 [Django Datta Able](https://django-datta-able.appseed-srv1.com) - `LIVE Demo` 
+- 👉 [Django Datta Able](https://django-datta.onrender.com/) - `LIVE Demo` 
 - 👉 [Django Datta Able Documentation](https://app-generator.dev/docs/products/django/datta-able/index.html) - `Complete Information` and Support Links
 
 ![Free Django Dashboard and Admin Template - Datta Able Design.](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
