@@ -5,7 +5,7 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 > NOTE: Generate your starter on top of **Flask** and **Django** and customize: `DB Tables`, `Auth`, `Async Tasks` (Celery), `Docker`, `CI/Cd Scripts`
 
 - 👉 [Django App Generator](https://app-generator.dev/tools/django-generator/) - free service 
-- 👉 [Flask App Generator](https://app-generator.dev/tools/django-generator/) - free service
+- 👉 [Flask App Generator](https://app-generator.dev/tools/flask-generator/) - free service
 
 ![Django App Generator - Free service provided by App-Generator](https://github.com/user-attachments/assets/d13c09d9-c8e6-4e99-bbe4-eb27bd2d7c31)
    
