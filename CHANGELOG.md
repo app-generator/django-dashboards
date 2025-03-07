@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.0.5] 2025-03-07
+### Changes
+
+- New Products listed by [App Generator](https://app-generator.dev/) Service
+  - [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
+  - [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
+  - [Django Material Dashboard](https://app-generator.dev/product/material-dashboard/django/)
+  - [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/)
+  - [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+  - [Django Rocket](https://app-generator.dev/product/rocket/django/)
+- New DevTools
+  - [Dynamic Django](https://dynamic-django.onrender.com/)
+  - [Django App Generator](https://app-generator.dev/tools/django-generator/)
+  - [Flask App Generator](https://app-generator.dev/tools/django-generator/)  
+
 ## [1.0.4] 2024-11-26
 ### Changes
 
