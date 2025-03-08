@@ -26,7 +26,12 @@ The product is designed to deliver the best possible user experience with highly
 - Datta Able Design - Full Integration 
 - [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
 - [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
-- CLI for Coding Tasks
+- **CLI for Coding Tasks**
+  - `Commit/rollback Git Changes`
+  - `Backup & restore DB`
+  - `Interact with Django Core` via CLI
+  - `Update Environment variables`
+  - `Update Dependencies`  
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
