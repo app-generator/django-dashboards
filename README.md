@@ -1,6 +1,6 @@
 # [Django Dashboards](https://app-generator.dev/admin-dashboards/django/)
 
-A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** actively supported by the **[App-Generator](https://app-generator.dev/)** Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
 <br />
 
