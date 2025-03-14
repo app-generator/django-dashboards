@@ -15,7 +15,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Datta Able Design - Full Integration 
+- [Datta Able](https://app-generator.dev/docs/templates/bootstrap/datta-able.html) Design Integration 
 - [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
 - [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
 - **CLI for Coding Tasks**
@@ -68,7 +68,7 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 ---
 
 - Simple, Easy-to-Extend Codebase
-- AdminLTE Design - Full Integration 
+- [AdminLTE](https://app-generator.dev/docs/templates/bootstrap/adminlte.html) Design Integration 
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -90,7 +90,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Soft UI Dashboard Design - Full Integration 
+- [Soft UI Dashboard](https://app-generator.dev/docs/templates/bootstrap/soft-ui-dashboard.html) Design Integration 
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -112,7 +112,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- Black Dashboard Design - Full Integration 
+- [Berry Dashboard](https://app-generator.dev/docs/templates/bootstrap/berry-dashboard.html) Design Integration 
 - Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
