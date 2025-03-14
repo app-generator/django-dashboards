@@ -82,6 +82,29 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 
 <br />
 
+## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
+
+Open-source **Django** project crafted on top of **Soft UI Dashboard**, an open-source iconic `Bootstrap` 5 design from Creative-Tim.
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
+- 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
+
+### Features
+---
+
+- Simple, Easy-to-Extend Codebase
+- Soft UI Dashboard Design - Full Integration 
+- Bootstrap 5 Styling 
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker 
+- CI/CD integration for Render 
+
+![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
+ 
+<br />
+
 ## [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/)
 
 Open-source **Django** project crafted on top of **Berry Dashboard Dashboard**, an open-source `Bootstrap` design.
