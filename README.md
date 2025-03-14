@@ -2,13 +2,6 @@
 
 A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashboards/django/)** actively supported by the [App-Generator](https://app-generator.dev/) Platform. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
-> NOTE: Generate your starter on top of **Flask** and **Django** and customize: `DB Tables`, `Auth`, `Async Tasks` (Celery), `Docker`, `CI/Cd Scripts`
-
-- 👉 [Django App Generator](https://app-generator.dev/tools/django-generator/) - free service 
-- 👉 [Flask App Generator](https://app-generator.dev/tools/flask-generator/) - free service
-
-![Django App Generator - Free service provided by App-Generator](https://github.com/user-attachments/assets/d13c09d9-c8e6-4e99-bbe4-eb27bd2d7c31)
-   
 <br />
 
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
