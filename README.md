@@ -12,7 +12,6 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
 - 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
@@ -44,7 +43,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 - 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
 - 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Styling: **Tailwind CSS/Flowbite**
@@ -67,7 +65,6 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 - 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
 - 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
@@ -90,7 +87,6 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
 - 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
@@ -113,7 +109,6 @@ The product is designed to deliver the best possible user experience with highly
 - 👉 [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/) - `Product Page`
 - 👉 [Django Berry Dashboard](https://django-berry.onrender.com/) - `LIVE Demo`
 
-### Features
 ---
 
 - Simple, Easy-to-Extend Codebase
