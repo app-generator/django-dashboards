@@ -60,6 +60,28 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
   
 <br />
 
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Bootstrap` design. The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
+- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
+
+### Features
+---
+
+- Simple, Easy-to-Extend Codebase
+- AdminLTE Design - Full Integration 
+- Bootstrap 5 Styling 
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker 
+- CI/CD integration for Render 
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
 ## [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/)
 
 Open-source **Django** project crafted on top of **Berry Dashboard Dashboard**, an open-source `Bootstrap` design.
@@ -80,108 +102,6 @@ The product is designed to deliver the best possible user experience with highly
 - CI/CD integration for Render 
 
 ![Django Berry Dashboard - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/215728710-d1ee7fef-8153-402b-9741-371e1c01cd36.png)
-
-<br />
-
-## [Dynamic Django](https://dynamic-django.onrender.com/)
-
-**Dynamic Programming Patterns** applied in `Python/Django` - actively supported by `AppSeed`. 
-
-> LIVE DEMOs & [official documentation](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)
-
-- Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
-- Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
-  - `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
-  - `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
-  - `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
-
-![Dynamic Django - Dynamic Programming Patterns applied in Python/Django.](https://github.com/user-attachments/assets/2f9f6cef-23cb-4328-b12f-dcc448feaa96)
-
-### Features 
----
-
-- [OK] [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- [OK] Dynamic Charts
-- [OK] [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html) via DRF
-- [OK] Powerful `CLI` tools      
-
-### Quick Start
----
-
-> NOTE: Requires a [purchase](https://appseed.gumroad.com/l/devtool-dynamic-django), secured by GUMROAD.
- 
-```
-# Clone Repo
-$ git clone https://github.com/app-generator/priv-dynamic-django.git
-```
-
-> Create VENV
-
-```bash
-$ virtualenv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-```
-
-> Set Up Database
-
-```bash
-$ python manage.py makemigrations
-$ python manage.py migrate
-```
-
-> Start the Project
-
-```bash
-$ python manage.py createsuperuser # create the admin
-$ python manage.py runserver       # start the project
-```
-
-### Update model 
----
-
-```bash
-$ python
->>> from cli import *
->>> add_model('home', 'Stats')
->>> # Syntax: model_add_field('APP_NAME_HERE', 'MODEL_NAME_HERE', 'FIELD_NAME',  'FIELD_TYPE') 
->>> add_model_field('home', 'Stats', 'aInt',  'int') 
->>> add_model_field('home', 'Stats', 'aChar', 'str')
->>> add_model_field('home', 'Stats', 'aText', 'text')
-```
-
-The file is automatically reformated using `black` and DB migrated.
-
-### DB Backup / RESET / Restore
----
-
-```bash
-$ python manage.py dbbackup  -o 20240930-001.dump  # backup 
-$ python manage.py reset_db                        # RESET_DB [ Danger, all tables wipped ]
-$ python manage.py dbrestore -i 20240930-001.dump  # restore 
-```
-
-<br />
-
-## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
-
-Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Bootstrap` design. The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
-
-### Features
----
-
-- Simple, Easy-to-Extend Codebase
-- AdminLTE Design - Full Integration 
-- Bootstrap 5 Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker 
-- CI/CD integration for Render 
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
 <br />
 
