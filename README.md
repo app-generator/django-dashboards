@@ -15,9 +15,9 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- [Datta Able](https://app-generator.dev/docs/templates/bootstrap/datta-able.html) Design Integration 
-- [Dynamic Tables](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- **Datta Able** Design Integration 
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
 - **CLI for Coding Tasks**
   - `Commit/rollback Git Changes`
   - `Backup & restore DB`
@@ -47,9 +47,9 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 - Styling: **Tailwind CSS/Flowbite**
 - **Extended User Model**
-- [Charts](https://rocket-django.onrender.com/charts/) via ApexJS
-- [DataTables](https://rocket-django.onrender.com/tables/) 
-- [API](https://rocket-django.onrender.com/api/product/)
+- **Charts** via ApexJS
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
 - Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
 - **Docker**
 - **CI/CD Integration** with Render 
