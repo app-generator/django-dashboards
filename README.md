@@ -6,8 +6,8 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
-Open-source **Django** project crafted on top of **Datta Able Dashboard**, an open-source `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+Open-source **Django** project crafted on top of **[Datta Able](https://app-generator.dev/product/datta-able/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
+The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
 
 - 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
 - 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
@@ -15,7 +15,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- **Datta Able** Design Integration 
+- **[Datta Able](https://app-generator.dev/product/datta-able/)** Design Integration 
 - **Dynamic Tables** - generate data tables without coding 
 - **Dynamic API** - expose secure APIs without coding
 - **CLI for Coding Tasks**
@@ -36,7 +36,8 @@ The product is designed to deliver the best possible user experience with highly
 
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/)
 
-Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**.The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**. 
+The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
 
 A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
 
@@ -46,6 +47,7 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 ---
 
 - Styling: **Tailwind CSS/Flowbite**
+- [Rocket](https://app-generator.dev/product/rocket/) Design Integration
 - **Extended User Model**
 - **Charts** via ApexJS
 - **Dynamic Tables** - generate data tables without coding 
@@ -60,7 +62,7 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
-Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Bootstrap` design. The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+Open-source Django Starter with [AdminLTE](https://app-generator.dev/product/adminlte/) Design, an open-source iconic `Bootstrap` design. This open-source [admin dashboard](https://app-generator.dev/admin-dashboards/) is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
 
 - 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
 - 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
@@ -68,7 +70,7 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 ---
 
 - Simple, Easy-to-Extend Codebase
-- [AdminLTE](https://app-generator.dev/docs/templates/bootstrap/adminlte.html) Design Integration 
+- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -81,7 +83,7 @@ Open-source **Django Starter with AdminLTE Design**, an open-source iconic `Boot
 
 ## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
 
-Open-source **Django** project crafted on top of **Soft UI Dashboard**, an open-source iconic `Bootstrap` 5 design from Creative-Tim.
+Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/)**, an open-source iconic `Bootstrap` 5 design from [Creative-Tim](/agency/creative-tim/).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
@@ -90,7 +92,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- [Soft UI Dashboard](https://app-generator.dev/docs/templates/bootstrap/soft-ui-dashboard.html) Design Integration 
+- [Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/) Design Integration 
 - Bootstrap 5 Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
@@ -103,8 +105,8 @@ The product is designed to deliver the best possible user experience with highly
 
 ## [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/)
 
-Open-source **Django** project crafted on top of **Berry Dashboard Dashboard**, an open-source `Bootstrap` design.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+Open-source **Django** project crafted on top of **[Berry Dashboard](https://app-generator.dev/product/berry-dashboard/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
+The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
 
 - 👉 [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/) - `Product Page`
 - 👉 [Django Berry Dashboard](https://django-berry.onrender.com/) - `LIVE Demo`
@@ -112,7 +114,7 @@ The product is designed to deliver the best possible user experience with highly
 ---
 
 - Simple, Easy-to-Extend Codebase
-- [Berry Dashboard](https://app-generator.dev/docs/templates/bootstrap/berry-dashboard.html) Design Integration 
+- [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Design Integration 
 - Bootstrap Styling 
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
