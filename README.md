@@ -4,6 +4,36 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+**Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
+- 👉 [Django AdminLTE](https://django-adminlte.onrender.com) - `LIVE Demo`
+
+---
+
+- Simple, Easy-to-Extend Codebase
+- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Integrate Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
+
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+
+<br />
+
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
 Open-source **Django** project crafted on top of **[Datta Able](https://app-generator.dev/product/datta-able/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
@@ -58,27 +88,6 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
-<br />
-
-## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
-
-Open-source Django Starter with [AdminLTE](https://app-generator.dev/product/adminlte/) Design, an open-source iconic `Bootstrap` design. This open-source [admin dashboard](https://app-generator.dev/admin-dashboards/) is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
-
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
-- 👉 [Django AdminLTE](https://adminlte-django.appseed-srv1.com) - `LIVE Demo`
-
----
-
-- Simple, Easy-to-Extend Codebase
-- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
-- Bootstrap 5 Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker 
-- CI/CD integration for Render 
-
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
-
 <br />
 
 ## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
