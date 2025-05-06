@@ -16,19 +16,21 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 - Simple, Easy-to-Extend Codebase
 - [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
 - [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
-- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
-- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
-- Charts
-- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
-    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
-    - `Backup & restore DB`
-    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
-    - `Manage Environment`
-    - `Manage Dependencies`
 - Session-based Authentication, Password recovery
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker, CI/CD for Render
-- [Integrate Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
+- Apps:
+  - [DEMO](https://django-adminlte.onrender.com/dynamic-dt/product/) **Dynamic DataTables** - generate server-side datatables without coding
+  - [DEMO](https://django-adminlte.onrender.com/api/) **Dynamic APIs** - Expose secure APIs without coding  
+  - [DEMO](https://django-adminlte.onrender.com/charts/) **Charts** - powered by ApexCharts 
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - `Commit/rollback Git Changes`
+    - `Backup & restore DB`
+    - `Interact with Django Core`
+    - `Manage Environment`
+    - `Manage Dependencies`  
+- [Deployment](https://app-generator.dev/docs/deployment.html)
+  - Docker/Docker Compose Scripts 
+  - CI/CD for [Render](https://app-generator.dev/docs/deployment/render/index.html)
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
