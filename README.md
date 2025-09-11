@@ -4,6 +4,31 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## Affiliate Services
+
+**High-quality Services and products we recommend** to all our users.
+
+> 👉 **[HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)**
+
+One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
+Here are the core services we recommend: 
+
+- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)
+- [WebSite Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)
+- [eCommerce Builder - AI Assisted](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)
+- [StartUp Cloud Hosting](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) 
+
+<br />
+
+> 👉 **[Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
+
+**Creative Tim** stands as a leading provider of premium UI components, empowering over 2.7 million developers and designers worldwide to build exceptional web applications faster and more efficiently.
+
+- [AI n8n Workflow Templates Collection](https://www.creative-tim.com/product/n8n-workflow-templates-collection?AFFILIATE=128200)
+- [Dashboards](https://www.creative-tim.com/bootstrap-themes/admin-dashboard?AFFILIATE=128200)
+
+<br />
+
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
 **Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
