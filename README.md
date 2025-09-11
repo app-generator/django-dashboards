@@ -4,28 +4,15 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
-## Affiliate Services
-
-**High-quality Services and products we recommend** to all our users.
-
-> 👉 **[HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)**
+## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
 
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
-Here are the core services we recommend: 
+**Here are the core services**:
 
-- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)
-- [Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)
-- [eCommerce Builder - AI Assisted](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)
-- [StartUp Cloud Hosting](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) 
-
-<br />
-
-> 👉 **[Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
-
-**Creative Tim** stands as a leading provider of premium UI components, empowering over 2.7 million developers and designers worldwide to build exceptional web applications faster and more efficiently.
-
-- [AI n8n Workflow Templates Collection](https://www.creative-tim.com/product/n8n-workflow-templates-collection?AFFILIATE=128200)
-- [Dashboards](https://www.creative-tim.com/bootstrap-themes/admin-dashboard?AFFILIATE=128200)
+- ✅ **[HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)** - 3months FREE
+- ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
+- ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
+- ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
 
 <br />
 
