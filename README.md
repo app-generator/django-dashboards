@@ -4,6 +4,32 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 <br />
 
+## [Django Rocket](https://app-generator.dev/product/rocket/django/)
+
+Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**. 
+The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+
+A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
+
+- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
+- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
+
+---
+
+- Styling: **Tailwind CSS/Flowbite**
+- [Rocket](https://app-generator.dev/product/rocket/) Design Integration
+- **Extended User Model**
+- **Charts** via ApexJS
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
+- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
+- **Docker**
+- **CI/CD Integration** with Render 
+
+![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
+  
+<br />
+
 ## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
 
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
@@ -76,32 +102,6 @@ The product is designed to deliver the best possible user experience with highly
 
 ![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
 
-<br />
-
-## [Django Rocket](https://app-generator.dev/product/rocket/django/)
-
-Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**. 
-The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
-
-A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
-
-- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
-- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
-
----
-
-- Styling: **Tailwind CSS/Flowbite**
-- [Rocket](https://app-generator.dev/product/rocket/) Design Integration
-- **Extended User Model**
-- **Charts** via ApexJS
-- **Dynamic Tables** - generate data tables without coding 
-- **Dynamic API** - expose secure APIs without coding
-- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
-- **Docker**
-- **CI/CD Integration** with Render 
-
-![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
-  
 <br />
 
 ## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
