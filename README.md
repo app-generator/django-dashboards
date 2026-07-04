@@ -24,7 +24,7 @@ A clean, modular Django boilerplate integrated with the AdminLTE (Bootstrap) Das
  
 <br />
 
-![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
+<img width="800" height="500" alt="Django AdminLTE - provided by App-Generator - Helping entrepreneurs build products with continuous human support" src="https://github.com/user-attachments/assets/bffc48bb-b9a1-41f8-a5b6-b22f60a417d4" />
 
 <br />
 
@@ -36,7 +36,7 @@ A streamlined, modular Django boilerplate integrated with the lightweight Datta 
  
 <br />
 
-![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
+<img width="800" height="500" alt="Django Datta Able - provided by App-Generator - Helping entrepreneurs build products with continuous human support" src="https://user-images.githubusercontent.com/51070104/170474361-a58da82b-fff9-4a59-81a8-7ab99f478f48.png" />
 
 <br />
 
