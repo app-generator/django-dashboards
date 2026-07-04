@@ -6,25 +6,11 @@ A curated list with **[Django Dashboards](https://app-generator.dev/admin-dashbo
 
 ## [Django Rocket](https://app-generator.dev/product/rocket/django/)
 
-Open-source **[Django Template styled with Tailwind CSS and Flowbite](https://app-generator.dev/product/rocket/django/)**. 
-The product is designed to deliver the best possible developer experience with highly customizable feature-rich pages. 
+A modern, modular Django boilerplate styled entirely with Rocket Design using Tailwind CSS and the Flowbite component library. This starter combines a utility-first frontend with an advanced Django backend setup, complete with Docker support and a custom CLI, allowing you to build and deploy highly optimized interfaces quickly.
 
-A common set of features is provided out-of-the-box: **API, DataTables, Charts, Extended User Model, and Docker Support** under a permissive MIT License (**unrestricted usage in hobby or commercial projects**).
-
-- 👉 [Django Rocket](https://app-generator.dev/product/rocket/django/) - `Product Page`
-- 👉 [Django Rocket](https://rocket-django.onrender.com) - `LIVE Demo`
-
----
-
-- Styling: **Tailwind CSS/Flowbite**
-- [Rocket](https://app-generator.dev/product/rocket/) Design Integration
-- **Extended User Model**
-- **Charts** via ApexJS
-- **Dynamic Tables** - generate data tables without coding 
-- **Dynamic API** - expose secure APIs without coding
-- Can be used with **SQLite**, **MySql**, **PostgreSQL**, **MsSql**
-- **Docker**
-- **CI/CD Integration** with Render 
+> **Product is available for subscribers ONLY** - See [Pricing](https://app-generator.dev/terms/).
+ 
+<br />
 
 ![Django Rocket - Open-Source Django Starter styled with Tailwind](https://github.com/user-attachments/assets/d7527d5e-046c-4679-8f72-525290a5edd5)
   
@@ -32,31 +18,11 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ## [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
 
-**Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+A clean, modular Django boilerplate integrated with the AdminLTE (Bootstrap) Dashboard layout. This starter provides the foundational plumbing needed for a data-driven web app, allowing you to skip repetitive setup and focus on implementing features.
 
-- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
-- 👉 [Django AdminLTE](https://django-adminlte.onrender.com) - `LIVE Demo`
-
----
-
-- Simple, Easy-to-Extend Codebase
-- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
-- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Apps:
-  - [DEMO](https://django-adminlte.onrender.com/dynamic-dt/product/) **Dynamic DataTables** - generate server-side datatables without coding
-  - [DEMO](https://django-adminlte.onrender.com/api/) **Dynamic APIs** - Expose secure APIs without coding  
-  - [DEMO](https://django-adminlte.onrender.com/charts/) **Charts** - powered by ApexCharts 
-- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
-    - `Commit/rollback Git Changes`
-    - `Backup & restore DB`
-    - `Interact with Django Core`
-    - `Manage Environment`
-    - `Manage Dependencies`  
-- [Deployment](https://app-generator.dev/docs/deployment.html)
-  - Docker/Docker Compose Scripts 
-  - CI/CD for [Render](https://app-generator.dev/docs/deployment/render/index.html)
+> **Product is available for subscribers ONLY** - See [Pricing](https://app-generator.dev/terms/).
+ 
+<br />
 
 ![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
@@ -64,73 +30,24 @@ A common set of features is provided out-of-the-box: **API, DataTables, Charts, 
 
 ## [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
-Open-source **Django** project crafted on top of **[Datta Able](https://app-generator.dev/product/datta-able/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
-The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+A streamlined, modular Django boilerplate integrated with the lightweight Datta Able Dashboard and styled using standard Bootstrap components. This starter focuses on rendering speed and UI simplicity, handling the underlying backend structure so you can deploy application logic instantly.
 
-- 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
-- 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
-
----
-
-- Simple, Easy-to-Extend Codebase
-- **[Datta Able](https://app-generator.dev/product/datta-able/)** Design Integration 
-- **Dynamic Tables** - generate data tables without coding 
-- **Dynamic API** - expose secure APIs without coding
-- **CLI for Coding Tasks**
-  - `Commit/rollback Git Changes`
-  - `Backup & restore DB`
-  - `Interact with Django Core` via CLI
-  - `Update Environment variables`
-  - `Update Dependencies`  
-- Bootstrap 5 Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker, CI/CD for Render
-- Vite for assets management 
+> **Product is available for subscribers ONLY** - See [Pricing](https://app-generator.dev/terms/).
+ 
+<br />
 
 ![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
 
 <br />
 
-## [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/)
-
-Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/)**, an open-source iconic `Bootstrap` 5 design from [Creative-Tim](/agency/creative-tim/).
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
-
-- 👉 [Django Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/django/) - `Product Page`
-- 👉 [Django Soft UI Dashboard](https://django-soft-dash.onrender.com/) - `LIVE Demo`
-
----
-
-- Simple, Easy-to-Extend Codebase
-- [Soft UI Dashboard](https://app-generator.dev/product/soft-ui-dashboard/) Design Integration 
-- Bootstrap 5 Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker 
-- CI/CD integration for Render 
-
-![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
- 
-<br />
 
 ## [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/)
 
-Open-source **Django** project crafted on top of **[Berry Dashboard](https://app-generator.dev/product/berry-dashboard/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
-The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+A clean, modular Django boilerplate integrated with the modern Berry Dashboard layout and styled entirely using premium Bootstrap components. This starter handles the core architectural plumbing, allowing you to bypass repetitive configuration and jump straight to feature implementation.
 
-- 👉 [Django Berry Dashboard](https://app-generator.dev/product/berry-dashboard/django/) - `Product Page`
-- 👉 [Django Berry Dashboard](https://django-berry.onrender.com/) - `LIVE Demo`
-
----
-
-- Simple, Easy-to-Extend Codebase
-- [Berry Dashboard](https://app-generator.dev/product/berry-dashboard/) Design Integration 
-- Bootstrap Styling 
-- Session-based Authentication, Password recovery
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Docker 
-- CI/CD integration for Render 
+> **Product is available for subscribers ONLY** - See [Pricing](https://app-generator.dev/terms/).
+ 
+<br />
 
 ![Django Berry Dashboard - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/215728710-d1ee7fef-8153-402b-9741-371e1c01cd36.png)
 
